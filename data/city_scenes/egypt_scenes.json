@@ -1,0 +1,308 @@
+{
+  "city": "Cairo",
+  "slug": "egypt",
+  "note": "Outfit: light linen explorer shirt, khaki cargo shorts or culottes, wide-brim sun hat with chin strap, camera pouch, rolling suitcase with pyramid and eye-of-horus stickers. The Great Pyramids appear only on pages 5-6. Each page has a unique Ancient Egypt / Cairo setting.",
+  "scenes": [
+    {
+      "page": 1,
+      "category": "arrival",
+      "companion": "cat",
+      "setting": "Cairo International Airport arrivals hall",
+      "scene_description": "Capybara emerges through Cairo International Airport arrivals into a wall of warm golden air, suitcase rolling behind, head turning left and right with enormous eyes at the Arabic calligraphy signs and the overwhelming first impression of Egypt. Body faces left, head turned right in wonder. A sleek Egyptian Mau cat companion in a tiny pharaoh collar sits regally on top of the suitcase, clearly already at home.",
+      "pose": "emerging from arrivals, body left, head turned right in wonder, huge eyes",
+      "background": "Cairo International Airport arrivals hall — Arabic calligraphy on welcome signs, warm golden light, automatic doors behind, airport ceiling with skylights",
+      "forbidden_backgrounds": "Great Pyramids, Sphinx, Nile river, Cairo bazaar — only the airport arrivals hall"
+    },
+    {
+      "page": 2,
+      "category": "first_glimpse",
+      "companion": "rabbit",
+      "setting": "First view of the Great Pyramids from the desert edge",
+      "scene_description": "Capybara stands at the desert's edge seeing the three Great Pyramids of Giza for the very first time, rising impossibly from the flat sand into the blue sky — both arms flung open, mouth in a perfect O of disbelief, sun hat blown back on its chin strap. A rabbit companion in a tiny pith helmet stands beside doing exactly the same, both of them frozen in shared awe.",
+      "pose": "arms flung wide, mouth open in O of disbelief, sun hat blown back on strap",
+      "background": "Desert edge view of the three Great Pyramids of Giza — the three pyramids at different heights rising from flat sand desert, clear blue sky above, no buildings",
+      "forbidden_backgrounds": "Sphinx, Nile, Khan el-Khalili bazaar — only the three pyramids rising from desert in the distance"
+    },
+    {
+      "page": 3,
+      "category": "hotel",
+      "companion": "cat",
+      "setting": "Cozy Nile-view hotel room in Cairo",
+      "scene_description": "Capybara kneels on the hotel bed pressing both paws to the window glass, looking at the Nile River glittering below in the afternoon light — the capybara's reflection overlapping with the river view. Suitcase open on the floor behind with a scarab beetle figurine and papyrus scroll peeking out. The Egyptian Mau cat companion has claimed the entire pillow.",
+      "pose": "kneeling on bed, both paws pressed to window, looking at Nile below",
+      "background": "Hotel room interior with large window view of the Nile River — the river glittering with felucca sailboats, other bank of the Nile in background, warm Egyptian afternoon light",
+      "forbidden_backgrounds": "Great Pyramids, Sphinx, bazaar — only the hotel room and Nile through window"
+    },
+    {
+      "page": 4,
+      "category": "breakfast",
+      "companion": "rabbit",
+      "setting": "Egyptian ful medames breakfast at a street café",
+      "scene_description": "Capybara sits at a small cafe table with a vast spread of Egyptian breakfast — a large bowl of ful medames (fava beans), warm pita bread, a hard-boiled egg, fresh tomatoes, and a tiny glass of sweet mint tea — looking at it all with delighted overwhelm. Both paws raised gesturing 'where do I even start.' A rabbit companion beside has already organized their breakfast with military precision.",
+      "pose": "at cafe table, both paws raised in 'where do I start' gesture at enormous breakfast spread",
+      "background": "Simple Egyptian street café exterior — small metal tables, plastic chairs, a handwritten menu on a chalkboard, warm Cairo morning light on a quiet neighborhood street",
+      "forbidden_backgrounds": "Great Pyramids, Sphinx, bazaar — only the quiet street café morning"
+    },
+    {
+      "page": 5,
+      "category": "landmark_1",
+      "companion": "cat",
+      "setting": "Great Sphinx of Giza — the capybara meeting the Sphinx",
+      "scene_description": "Capybara stands directly before the Great Sphinx, head cranked all the way back to look at the massive stone face looking back — the capybara intentionally tiny at the Sphinx's paw level, completely dwarfed. One arm points straight up at the face, the other grips the camera. The Egyptian Mau cat companion sits on the capybara's sun hat, also staring up with sphinx-like dignity.",
+      "pose": "tiny at Sphinx's paw, neck cranked back, one arm pointing at Sphinx face above",
+      "background": "Great Sphinx of Giza — the massive stone lion body with human face filling most of the frame above, the capybara tiny at paw level, pyramid of Khafre visible behind the Sphinx",
+      "forbidden_backgrounds": "Khan el-Khalili bazaar, Nile, Cairo streets — only the Sphinx and the pyramid behind it"
+    },
+    {
+      "page": 6,
+      "category": "photo",
+      "companion": "rabbit",
+      "setting": "Great Pyramid of Khufu — the largest pyramid",
+      "scene_description": "Capybara stands at the base of the Great Pyramid of Khufu, camera raised to one eye, trying to photograph the entire pyramid — but even at maximum distance it doesn't fit in frame. Knees bent in frustrated photographer's crouch, tongue out. A rabbit companion holds a tiny selfie stick with a phone trying to get the pyramid in a wide angle shot.",
+      "pose": "photographer's crouch at pyramid base, camera raised, tongue out in frustrated concentration",
+      "background": "Great Pyramid of Khufu — the enormous limestone block base of the largest pyramid, stone blocks rising in tiers above, clear blue sky. This is the PYRAMID page, distinct from the Sphinx page",
+      "forbidden_backgrounds": "Sphinx, Nile, bazaar — only the pyramid stone base and sky"
+    },
+    {
+      "page": 7,
+      "category": "market",
+      "companion": "cat",
+      "setting": "Khan el-Khalili bazaar, the great Cairo market",
+      "scene_description": "Capybara wanders through the winding alleyways of Khan el-Khalili bazaar, head swiveling in every direction at the overflowing stalls of gold jewelry, copper lanterns, spices, and colored glass — one paw reaching out toward a hanging copper lantern that catches the light beautifully. Facing left, completely overwhelmed in the best way. The Egyptian Mau cat companion walks ahead beckoning urgently toward the perfume stall.",
+      "pose": "facing left, head swiveling, one paw reaching toward hanging copper lantern",
+      "background": "Khan el-Khalili bazaar narrow alley — arched stone ceiling overhead, stalls packed with copper lanterns, gold jewelry, colorful textiles hanging from hooks, warm lamp light",
+      "forbidden_backgrounds": "Great Pyramids, Sphinx, Nile — only the covered bazaar alley interior"
+    },
+    {
+      "page": 8,
+      "category": "street_food",
+      "companion": "rabbit",
+      "setting": "Koshary street food restaurant",
+      "scene_description": "Capybara sits at a simple restaurant counter with an enormous bowl of koshary — Egypt's beloved street food of lentils, rice, pasta, and crispy onions — staring at it with both paws gripping the bowl rim, eyes wide. The bowl is nearly as big as the capybara's torso. A rabbit companion beside them is already somehow halfway through their own bowl using a spoon with tremendous enthusiasm.",
+      "pose": "gripping enormous koshary bowl rim with both paws, eyes wide at the scale",
+      "background": "Simple Cairo koshary restaurant interior — tiled counter, stacked bowls, jars of vinegar and hot sauce, a handwritten menu on the wall",
+      "forbidden_backgrounds": "Great Pyramids, Khan el-Khalili, Nile — only the simple koshary restaurant counter"
+    },
+    {
+      "page": 9,
+      "category": "park",
+      "companion": "cat",
+      "setting": "Al-Azhar Park with Cairo skyline view",
+      "scene_description": "Capybara lies on their back in the green grass of Al-Azhar Park, arms and legs spread wide in relaxation, looking up at the blue sky through the rustling leaves of a palm tree. The minarets and domes of historic Islamic Cairo are visible in the distance across the park. The Egyptian Mau cat companion lies beside in an equally spread-out pose, both utterly peaceful.",
+      "pose": "flat on back in grass, arms and legs spread wide, looking up through palm fronds",
+      "background": "Al-Azhar Park green lawn — palm trees and garden, historic Cairo minarets and domes visible across the park in the distance, blue sky",
+      "forbidden_backgrounds": "Great Pyramids, Sphinx, bazaar, Nile — only the park grass and distant Islamic Cairo skyline"
+    },
+    {
+      "page": 10,
+      "category": "local_animal",
+      "companion": "none — camel IS companion",
+      "setting": "Desert near Giza — meeting a camel",
+      "scene_description": "Capybara stands face to face with a camel in the desert near Giza, both looking directly at each other at the same eye level — the capybara on tiptoe, the camel seated and folded — both wearing identically curious expressions, noses almost touching. The camel is wearing decorative tassels. An expression of mutual fascination: two very different creatures regarding each other with complete respect.",
+      "pose": "on tiptoe, face-to-face nose-to-nose with seated camel, mutual curious expressions",
+      "background": "Desert sand near Giza — flat sandy ground, distant dunes, hot blue sky. No pyramids or sphinx in this scene — just the open desert setting",
+      "forbidden_backgrounds": "Great Pyramids prominently — only the open sandy desert with horizon"
+    },
+    {
+      "page": 11,
+      "category": "transport",
+      "companion": "rabbit",
+      "setting": "Felucca sailboat on the Nile River",
+      "scene_description": "Capybara sits in the white sail of a traditional felucca sailboat on the Nile, leaning back into the sail cloth dramatically as the wind fills it, arms spread along the sail ropes, laughing with the speed. The Cairo cityscape and date palms drift past on both riverbanks. A rabbit companion sits in the bow gripping the bow rail for dear life, scarf blowing horizontally.",
+      "pose": "leaning back into felucca sail with arms along ropes, laughing with the wind",
+      "background": "Nile River on a felucca sailboat — the wide green Nile, date palms on both banks, Cairo buildings visible on the east bank, the sail billowing above",
+      "forbidden_backgrounds": "Great Pyramids, Sphinx, bazaar — only the Nile river and felucca sailing"
+    },
+    {
+      "page": 12,
+      "category": "landmark_2",
+      "companion": "cat",
+      "setting": "Egyptian Museum in Tahrir Square — Tutankhamun exhibition",
+      "scene_description": "Capybara sits cross-legged on the floor before a display case containing Tutankhamun's golden death mask — drawing it in a sketchbook with reverent concentration, tongue just visible. The sketchbook drawing of the golden mask is visible on the page. The Egyptian Mau cat companion sits beside examining the case with professional archaeologist's intensity.",
+      "pose": "cross-legged on museum floor, drawing Tutankhamun mask in sketchbook, tongue just visible",
+      "background": "Egyptian Museum interior — the famous golden mask display, museum gallery with high ceilings, other pharaonic artifacts visible on shelves. A completely different landmark from the Pyramids or Sphinx",
+      "forbidden_backgrounds": "Great Pyramids, Sphinx, Nile — only the museum interior with golden mask display"
+    },
+    {
+      "page": 13,
+      "category": "shopping",
+      "companion": "rabbit",
+      "setting": "Gold jewelry souvenir shop near Khan el-Khalili",
+      "scene_description": "Capybara holds up a cartouche necklace with their name in hieroglyphics — dangling it from one raised paw, tilting the necklace to examine the golden symbols — expression of 'I absolutely need this.' Facing the viewer. A rabbit companion beside them is already wearing three cartouche necklaces and a scarab beetle ring, clearly committed to full Egyptian jewelry mode.",
+      "pose": "facing viewer, holding cartouche necklace up from one raised paw, tilting it to examine",
+      "background": "Gold souvenir shop interior — display cases of golden jewelry, cartouche pendants hanging on chains, scarab beetles and Eye of Horus charms, warm lamp light",
+      "forbidden_backgrounds": "Great Pyramids, Nile, museum — only the gold shop interior"
+    },
+    {
+      "page": 14,
+      "category": "craft",
+      "companion": "cat",
+      "setting": "Papyrus painting workshop near the bazaar",
+      "scene_description": "Capybara sits at a low craft table carefully painting a small scene of the pyramids onto real papyrus with a fine brush — tongue out, brush hand trembling slightly with the precision required. The real papyrus sheet is held flat with small stones. The Egyptian Mau cat companion watches critically from the table's edge, clearly having opinions about the quality of the pyramid drawing.",
+      "pose": "at craft table, tongue out, painting papyrus with tiny brush, trembling with concentration",
+      "background": "Papyrus workshop interior — sheets of papyrus hanging on walls, pigment pots, workshop lighting, baskets of papyrus reeds in the corner",
+      "forbidden_backgrounds": "Great Pyramids exterior, Nile, bazaar — only the papyrus workshop interior"
+    },
+    {
+      "page": 15,
+      "category": "temple",
+      "companion": "rabbit",
+      "setting": "Karnak Temple complex in Luxor — the hypostyle hall",
+      "scene_description": "Capybara walks slowly through the hypostyle hall of Karnak Temple, weaving between the towering massive columns covered in hieroglyphic carvings — the capybara is tiny against the enormous stone columns that dwarf everything. One paw rests on a column's carved surface in wonder. A rabbit companion points a flashlight at a cartouche carved into the stone at eye level.",
+      "pose": "walking between massive columns, tiny against them, one paw on carved surface",
+      "background": "Karnak Temple hypostyle hall — towering stone columns carved with hieroglyphics filling the frame, the columns enormous relative to the tiny capybara, sandy floor, desert sky above the open columns",
+      "forbidden_backgrounds": "Great Pyramids, Sphinx, Cairo — this is KARNAK TEMPLE in Luxor, a completely different part of Egypt"
+    },
+    {
+      "page": 16,
+      "category": "viewpoint",
+      "companion": "cat",
+      "setting": "Citadel of Saladin hilltop — panoramic view of Cairo",
+      "scene_description": "Capybara leans on the stone parapet of the Citadel of Saladin, looking out over the entire panorama of Cairo spread below — the minarets of a thousand mosques rising from the urban density, the Nile a silver ribbon in the distance, and far beyond, the tiny triangles of the Giza pyramids on the horizon. Profile facing right, awed and content.",
+      "pose": "leaning on citadel parapet, profile right, gazing over vast Cairo panorama",
+      "background": "Saladin Citadel parapet looking over Cairo — the city spreading below with countless mosque minarets, the Nile silver in the distance, tiny pyramid silhouettes on the far horizon",
+      "forbidden_backgrounds": "Close-up pyramids, Khan el-Khalili — only the aerial citadel view of Cairo"
+    },
+    {
+      "page": 17,
+      "category": "snack",
+      "companion": "rabbit",
+      "setting": "Ahwa (Egyptian café) with mint tea and basbousa",
+      "scene_description": "Capybara sits in a traditional ahwa coffee house on a carved wooden chair, both paws around a small glass of intensely sweet mint tea, eyes half-closed in the pleasure of the hot drink and the shisha smoke curling lazily nearby (but not touching the capybara). A basbousa semolina cake sits on the table. A rabbit companion examines the tea leaves at the bottom of their empty glass with great scholarly interest.",
+      "pose": "sunken into carved wooden chair, both paws around mint tea glass, eyes half-closed in bliss",
+      "background": "Traditional ahwa coffee house interior — carved wooden screens, old ceiling fans, checkered floor, other small tables, warm amber lighting",
+      "forbidden_backgrounds": "Great Pyramids, Nile, bazaar — only the intimate ahwa café interior"
+    },
+    {
+      "page": 18,
+      "category": "festival",
+      "companion": "cat",
+      "setting": "Eid celebration street festival in Cairo neighborhood",
+      "scene_description": "Capybara skips through a Cairo neighborhood Eid celebration street festival, both arms raised holding small lanterns — fanous lanterns in colored glass that cast warm colored light — stepping joyfully to festive music. Expression of pure celebration. An Egyptian Mau cat companion dances alongside in a sparkly collar, lantern in one paw.",
+      "pose": "skipping forward, both arms raised holding colored fanous lanterns, pure celebration",
+      "background": "Cairo neighborhood street during Eid — colorful fanous lanterns hanging on strings across the street in every direction, warm evening light, neighborhood buildings decorated",
+      "forbidden_backgrounds": "Great Pyramids, Sphinx, museum — only the neighborhood street with Eid lanterns"
+    },
+    {
+      "page": 19,
+      "category": "dinner",
+      "companion": "rabbit",
+      "setting": "Nile-side fish restaurant at dusk",
+      "scene_description": "Capybara sits at a riverside restaurant table with a whole grilled Nile perch on the platter before them, leaning forward with eyes huge and a fork raised ready, the warm dusk light from the Nile reflecting on the table. A rabbit companion across the table is already negotiating the perfect first bite with surgical precision.",
+      "pose": "leaning forward toward grilled fish platter, fork raised, eyes huge, dusk light",
+      "background": "Nile riverside restaurant terrace at dusk — open-air terrace over the Nile water, felucca sailboats passing in the evening light, other bank of the Nile in soft dusk glow",
+      "forbidden_backgrounds": "Great Pyramids, bazaar, museum — only the Nile riverside terrace at dusk"
+    },
+    {
+      "page": 20,
+      "category": "evening_walk",
+      "companion": "cat",
+      "setting": "Mohammed Ali Mosque courtyard at evening",
+      "scene_description": "Capybara walks slowly through the alabaster courtyard of the Mohammed Ali Mosque at evening, head tilted back looking at the two slim Ottoman minarets rising against the darkening blue sky, lantern light glowing from the mosque entrance. Expression serene and reverent. The Egyptian Mau cat companion walks beside with dignified quiet steps.",
+      "pose": "strolling courtyard, head tilted back at minarets, serene and reverent",
+      "background": "Mohammed Ali Mosque alabaster courtyard at evening — the white alabaster columns and courtyard floor glowing, two slim Ottoman minarets rising against deep blue evening sky",
+      "forbidden_backgrounds": "Great Pyramids, Nile, bazaar — only the Mohammed Ali Mosque courtyard"
+    },
+    {
+      "page": 21,
+      "category": "museum",
+      "companion": "rabbit",
+      "setting": "Valley of the Kings, Luxor — entering a tomb",
+      "scene_description": "Capybara stands at the entrance to one of the Valley of the Kings tombs, tiny against the dark rectangular opening cut into the cliff face, head lamp on, one paw on the stone cliff edge and one paw raised in excited anticipation before going in. A rabbit companion beside them holds a guide map upside down with exaggerated focus.",
+      "pose": "tiny at tomb entrance cut into cliff, head lamp on, one paw on cliff, one raised in excitement",
+      "background": "Valley of the Kings — the barren golden limestone cliff face with multiple tomb entrances cut into it, dry desert valley stretching around, completely different from the Cairo museum",
+      "forbidden_backgrounds": "Great Pyramids, Sphinx, Cairo — this is Valley of the Kings in Luxor"
+    },
+    {
+      "page": 22,
+      "category": "outdoor",
+      "companion": "cat",
+      "setting": "Hot air balloon over Luxor at sunrise",
+      "scene_description": "Capybara stands in the basket of a hot air balloon floating over Luxor at sunrise, both paws gripping the basket edge, completely overwhelmed with joy as the temple complexes and the Nile bend far below in the golden morning light. The balloon basket sways gently. The Egyptian Mau cat companion stands beside, whiskers forward, surveying the kingdom below with appropriate feline authority.",
+      "pose": "gripping balloon basket edge, overwhelmed with joy, sunrise light on face",
+      "background": "Hot air balloon basket over Luxor at sunrise — the vast Nile bend, temple complexes below, golden morning light, other colorful balloons floating nearby",
+      "forbidden_backgrounds": "Great Pyramids, Sphinx, Cairo — only the hot air balloon and Luxor below at sunrise"
+    },
+    {
+      "page": 23,
+      "category": "waterside",
+      "companion": "rabbit",
+      "setting": "Corniche el-Nil waterfront promenade, Aswan",
+      "scene_description": "Capybara sits on the stone edge of the Corniche waterfront in Aswan, feet dangling above the Nile, watching white-sailed feluccas drift past against the backdrop of Elephantine Island's golden granite boulders. Expression completely dreamy and peaceful. A rabbit companion sits beside also watching the feluccas, ears drooping in relaxed contentment.",
+      "pose": "sitting on corniche edge, feet dangling above Nile, watching feluccas, dreamy",
+      "background": "Aswan Corniche waterfront — the Nile much narrower and more dramatic here, Elephantine Island with granite boulders and ancient ruins visible across the water, white felucca sails",
+      "forbidden_backgrounds": "Great Pyramids, Valley of the Kings, Cairo — only the Aswan waterfront and narrow Nile"
+    },
+    {
+      "page": 24,
+      "category": "sport",
+      "companion": "cat",
+      "setting": "Horse riding at sunset near Giza plateau",
+      "scene_description": "Capybara sits on horseback at the edge of the Giza plateau at sunset, the silhouette of the pyramids dramatic against the orange and pink sky behind — riding confidently with a huge grin, sun hat straps flying, one paw raised in triumph. The Egyptian Mau cat companion rides a smaller horse beside wearing a tiny Bedouin headscarf.",
+      "pose": "on horseback, one paw raised in triumph, sun hat straps flying, huge grin",
+      "background": "Giza plateau at sunset — the pyramid silhouettes dramatic against orange-pink sunset sky, the desert plateau stretching around. The pyramids here are SILHOUETTES at sunset, a very different look from the daytime close-up views on pages 2, 5, 6",
+      "forbidden_backgrounds": "Daytime pyramid close-up, Sphinx face — only the dramatic sunset silhouette version"
+    },
+    {
+      "page": 25,
+      "category": "art_market",
+      "companion": "rabbit",
+      "setting": "Tentmakers' bazaar — the historic silk tent market",
+      "scene_description": "Capybara holds up an enormous hand-sewn appliqué textile panel — a colorful geometric patchwork nearly as wide as the capybara's arm span — examining the intricate pattern with complete admiration. Facing viewer, elbows up, barely visible behind the textile. A rabbit companion is already draped in a smaller appliqué piece like a very colorful cape, looking very pleased.",
+      "pose": "facing viewer, holding giant appliqué textile at full arm span, barely visible behind it",
+      "background": "Tentmakers' Bazaar (Souq al-Khayyamiyya) — covered street market with colorful appliqué textiles hanging everywhere, tentmaker workshops visible behind stalls",
+      "forbidden_backgrounds": "Great Pyramids, Khan el-Khalili, Nile — only this specific tentmakers' market"
+    },
+    {
+      "page": 26,
+      "category": "celebration",
+      "companion": "rabbit, cat",
+      "setting": "Sham el-Nessim spring festival (ancient Egyptian spring celebration)",
+      "scene_description": "Capybara dances in an outdoor celebration of Sham el-Nessim, holding a colorful bouquet of spring flowers, jumping with both feet off the ground in pure joy, scarf trailing. A rabbit and cat companion jump alongside in matching celebration. Flowers and colored eggs are scattered on the ground. The celebration takes place in a park.",
+      "pose": "jumping with both feet off ground, holding flower bouquet, scarf trailing, pure joy",
+      "background": "Park celebration of Sham el-Nessim spring festival — open green park, flower decorations, colored eggs on the grass, family celebration atmosphere",
+      "forbidden_backgrounds": "Great Pyramids, Sphinx, bazaar — only the spring festival park celebration"
+    },
+    {
+      "page": 27,
+      "category": "new_friends",
+      "companion": "cat, rabbit, camel",
+      "setting": "Desert campfire near Giza — farewell gathering",
+      "scene_description": "Capybara sits in the warm glow of a small desert campfire at night, holding a tiny papyrus scroll tied with string as a parting gift toward the Egyptian Mau cat companion, while the rabbit companion holds a string of golden beads to give, and the camel friend bends its neck down for a gentle farewell nuzzle. All have sparkly bittersweet eyes.",
+      "pose": "center of farewell circle at campfire, giving papyrus scroll to cat, camel nuzzling",
+      "background": "Small desert campfire at night near Giza — warm fire glow, desert sand, very distant tiny pyramid silhouettes on the dark horizon, stars above",
+      "forbidden_backgrounds": "Daytime pyramids, bazaar, museum — only the intimate desert campfire at night"
+    },
+    {
+      "page": 28,
+      "category": "packing",
+      "companion": "cat",
+      "setting": "Cairo hotel room departure morning",
+      "scene_description": "Capybara sits on top of a massively overstuffed suitcase trying to force it shut — a rolled papyrus scroll, a small alabaster sphinx, a cartouche necklace, a copper lantern, and a packet of spices all prevent the zipper from closing. Expression of cheerful chaos. An Egyptian Mau cat companion sits on the floor examining the packing situation with pharaoh-like judgment.",
+      "pose": "sitting on overstuffed suitcase, feet pressing, arms spread, facing forward",
+      "background": "Cairo hotel room interior at departure morning — warm morning light through window showing the Nile outside, Talavera-style Egyptian tile floor, suitcase chaos on bed",
+      "forbidden_backgrounds": "Great Pyramids, bazaar, Sphinx — only the hotel room interior"
+    },
+    {
+      "page": 29,
+      "category": "farewell",
+      "companion": "cat",
+      "setting": "Cairo airport departure gate",
+      "scene_description": "Capybara stands at the Cairo airport departure gate window with one paw pressed to the glass, looking back over the shoulder at the Cairo cityscape on the horizon — the minarets and the distant desert haze where the pyramids are invisible but somehow present. Teary-sparkly eyes with a brave smile. The Egyptian Mau cat companion sits on the rolling suitcase, paw raised in a regal farewell.",
+      "pose": "paw on gate window, looking back over shoulder, teary-sparkly eyes, brave smile",
+      "background": "Cairo airport departure gate window — the tarmac, Cairo city skyline with minarets on the horizon, golden Egyptian light, desert haze in the distance",
+      "forbidden_backgrounds": "Great Pyramids, Khan el-Khalili — only the airport gate and city horizon"
+    },
+    {
+      "page": 30,
+      "category": "memories",
+      "companion": "rabbit",
+      "setting": "Overhead floor spread of Egypt mementos",
+      "scene_description": "Capybara sits cross-legged in the center of an overhead spread of Egypt memories: Polaroid photos of the Sphinx, Valley of the Kings, Nile sunset, hot air balloon; a tiny alabaster sphinx figurine; a papyrus painting; a cartouche necklace; a scarab beetle; a small copper fanous lantern; a koshary container; dried rose petals. Capybara holds up a Polaroid of the pyramids at sunset with both paws, smiling broadly. A rabbit holds the scarab beetle and the papyrus.",
+      "pose": "cross-legged center, holding pyramid sunset Polaroid up to viewer, overhead view",
+      "background": "Simple surface — all Egypt mementos radiating outward in scrapbook arrangement, no architectural background",
+      "forbidden_backgrounds": "Any Egypt architecture — only the overhead mementos spread"
+    }
+  ],
+  "landmarks": "Great Pyramids of Giza; Sphinx; Karnak Temple; Valley of the Kings; Khan el-Khalili bazaar; Nile River"
+}

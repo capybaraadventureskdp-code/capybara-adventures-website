@@ -1,0 +1,277 @@
+{
+  "city": "New York City",
+  "slug": "new_york_city",
+  "description": "30 hand-crafted scene descriptions for Capybara Adventures: New York City. Every scene is a different NYC neighborhood, activity, pose, companion, and prop set.",
+  "scenes": [
+    {
+      "page": 1,
+      "category": "arrival",
+      "companion": "pigeon",
+      "setting": "JFK Airport Terminal 4 international arrivals hall",
+      "scene_description": "Capybara emerges through the JFK Terminal 4 arrivals sliding doors into the busy international arrivals hall, dragging an overstuffed rolling suitcase plastered with stickers of tiny skylines and paw prints, craning neck in every direction with enormous wide eyes as if trying to see the whole city at once. Body faces left, head swiveling right over the shoulder at the yellow taxi signs. A chubby New York City pigeon in a tiny newsboy cap sits on top of the suitcase handle, puffing its chest importantly as if it's been waiting to be the official NYC greeter. Overhead departure signs show stylized airplane icons.",
+      "pose": "emerging from doors, body left, head swiveling right",
+      "background": "JFK arrivals hall, taxi signs, floor-to-ceiling windows"
+    },
+    {
+      "page": 2,
+      "category": "first_glimpse",
+      "companion": "rabbit",
+      "setting": "Brooklyn Bridge pedestrian walkway, first view of Manhattan",
+      "scene_description": "Capybara stands frozen at the midpoint of the Brooklyn Bridge pedestrian walkway, jaw literally dropped open, both arms thrown out wide in stunned amazement as the full Manhattan skyline — the Empire State Building, the One World Trade spire, the dense cluster of skyscrapers — fills the view ahead. Head tilts all the way back to take in the height. A rabbit companion in a striped turtleneck stands beside, both paws pressed to cheeks in matching disbelief. The bridge's iconic Gothic stone towers and steel suspension cables frame the scene above, simplified into elegant geometric shapes.",
+      "pose": "frozen mid-walk, jaw dropped, arms flung wide, head back",
+      "background": "Brooklyn Bridge cables and towers, Manhattan skyline ahead"
+    },
+    {
+      "page": 3,
+      "category": "hotel",
+      "companion": "cat",
+      "setting": "Midtown Manhattan boutique hotel room with skyline window view",
+      "scene_description": "Capybara stands at the floor-to-ceiling window of a cozy Midtown hotel room, pressing both paws flat against the glass, nose almost touching it, gazing out at the city glittering below in the evening light — the Empire State Building visible just above the neighboring rooftop. The open suitcase lies half-unpacked on the bed behind, a tiny I-love-NY snow globe sitting on the nightstand. A cat companion has immediately curled up on the hotel bed pillow and is already asleep, one eye suspiciously half-open. The room is warm and simple, a 'Do Not Disturb' hanger on the door.",
+      "pose": "standing at window, both paws on glass, facing away into city",
+      "background": "hotel window, evening skyline, Empire State outside"
+    },
+    {
+      "page": 4,
+      "category": "breakfast",
+      "companion": "duck",
+      "setting": "Classic NYC corner diner counter, morning rush",
+      "scene_description": "Capybara sits at a classic diner counter on a spinning red stool, hunched over a breakfast plate piled comedically high — a tall stack of pancakes threatening to topple, a coffee mug as big as the capybara's head steaming beside it. Both paws grip the enormous mug with pure devotion, eyes half-closed in morning bliss, feet dangling above the footrest. A duck companion sits on the next stool in a tiny construction worker hard hat, dunking a donut into an equally oversized coffee with great seriousness. Behind them, a simple diner counter with ketchup bottles and a window show the street outside.",
+      "pose": "hunched on spinning stool, both paws gripping giant mug, feet dangling",
+      "background": "diner counter, red stools, window to street behind"
+    },
+    {
+      "page": 5,
+      "category": "landmark_1",
+      "companion": "bird",
+      "setting": "Liberty Island, base of Statue of Liberty",
+      "scene_description": "Capybara stands on Liberty Island's stone promenade at the base of the Statue of Liberty, head thrown impossibly far back, neck stretched, tiny in comparison to the massive green statue above. One arm points dramatically upward while the other clutches a paper guidebook to the chest. Eyes are wide circles of pure awe. A small seagull companion wheels directly overhead with wings outstretched, also looking up at Lady Liberty. The statue rises in simplified silhouette filling the upper two-thirds of the page with its crown, torch, and robes reduced to clean iconic shapes.",
+      "pose": "head thrown back, one arm pointing up, tiny against giant statue",
+      "background": "Statue of Liberty filling upper frame, stone promenade below"
+    },
+    {
+      "page": 6,
+      "category": "photo",
+      "companion": "fox",
+      "setting": "Times Square pedestrian plaza",
+      "scene_description": "Capybara crouches in the center of Times Square's pedestrian plaza in a dramatic photographer's stance, holding a tiny camera up to one eye while the other eye squints shut, framing the towering simplified billboard panels that surround them on all sides — abstract shapes suggesting lights and patterns rather than readable text. The capybara is dwarfed by the scale of the illuminated surroundings. A fox companion in a Broadway show t-shirt stands beside trying to photo-bomb by pulling a funny face behind the capybara's shoulder. The ground reflects the soft glow of the lights above in abstract puddle patterns.",
+      "pose": "photographer's crouch, one eye to camera, one squinted",
+      "background": "Times Square billboard panels all around, reflected light on ground"
+    },
+    {
+      "page": 7,
+      "category": "market",
+      "companion": "panda",
+      "setting": "Chelsea Market indoor food hall, brick arched hallways",
+      "scene_description": "Capybara wanders through Chelsea Market's famous brick-arched indoor hallway, head swiveling left and right in constant amazement at the food stalls — one paw stretching out to point at something in a bakery window while the other arm is already full of a paper bag of earlier purchases, crinkled and bursting. Facing left, completely distracted and delighted. A panda companion in a chef's toque walks ahead beckoning urgently, clearly on a mission toward a specific stall. The arched brick ceiling and vintage industrial pipes are simplified into elegant curved shapes overhead.",
+      "pose": "facing left, one arm pointing at window, other arm full of bag",
+      "background": "Chelsea Market brick arches, stall fronts, industrial pipes above"
+    },
+    {
+      "page": 8,
+      "category": "street_food",
+      "companion": "rabbit",
+      "setting": "Midtown street corner hot dog cart",
+      "scene_description": "Capybara stands at a classic NYC street corner hot dog cart, holding an enormous fully-loaded hot dog in both paws that is nearly the length of the capybara's own arm — the bun is piled with mustard zigzags and a swoosh of ketchup — staring at it with crossed eyes of pure loving reverence before the first bite. Facing the viewer, feet shoulder-width apart, completely committed to this moment. A rabbit companion has already finished their hot dog and is licking mustard off a paw with a satisfied smirk. The cart's colorful umbrella and steaming bins are visible behind them.",
+      "pose": "facing viewer, feet wide, holding giant hot dog up reverently",
+      "background": "hot dog cart with umbrella, steam rising from bins, street corner"
+    },
+    {
+      "page": 9,
+      "category": "park",
+      "companion": "duck",
+      "setting": "Central Park rowboat lake on a sunny afternoon",
+      "scene_description": "Capybara sits in a classic wooden Central Park rowboat on the Conservatory Water lake, both oars held up dripping as the boat drifts peacefully, leaning back with a completely relaxed grin, face tilted up to the dappled afternoon sunlight filtering through overhanging trees on the shore. Expression of total urban-escapism happiness. A duck companion sits on the bow of the boat with small wings folded, looking smug as the actual natural watercraft expert. The lake surface has gentle ripple patterns and the simplified Manhattan skyline peeks above the Central Park treeline in the far background.",
+      "pose": "leaning back in rowboat, oars raised dripping, face tilted to sun",
+      "background": "Central Park lake, tree-lined shore, skyline above treeline"
+    },
+    {
+      "page": 10,
+      "category": "local_animal",
+      "companion": "none — NYC pigeon IS the companion",
+      "setting": "Central Park stone bench",
+      "scene_description": "Capybara sits on a Central Park stone bench feeding breadcrumbs from one paw while an enormous, confident, thoroughly unbothered NYC pigeon stands directly on the capybara's other knee and stares straight into the capybara's face at extremely close range — both making exact eye contact, the pigeon completely unbothered, the capybara frozen in delighted shock with eyes wide as dinner plates. It is a tight intimate two-character composition at eye level, the pigeon clearly the dominant party in this interaction. Central Park trees and a distant lamppost provide soft background.",
+      "pose": "sitting on bench, frozen in eye contact, one paw open with crumbs",
+      "background": "Central Park bench, trees, lamppost behind"
+    },
+    {
+      "page": 11,
+      "category": "transport",
+      "companion": "cat",
+      "setting": "NYC Subway car interior",
+      "scene_description": "Capybara hangs from an overhead subway pole with both paws, feet swinging freely as the train rocks and sways, hat sliding at a steep angle, face a mix of excitement and mild panic as the car lurches around a turn. Facing right in profile, the hoodie slightly billowing from the movement. A cat companion has somehow found a seat and looks entirely composed, reading a folded newspaper and pretending not to know the capybara. The subway car interior shows simple bench seats, rounded windows showing blurred tunnel darkness, and the distinctive yellow pole pattern — no readable signs.",
+      "pose": "hanging from pole, feet swinging, hat tilted, facing right in profile",
+      "background": "subway car interior, tunnel darkness in windows, cat reading on seat"
+    },
+    {
+      "page": 12,
+      "category": "landmark_2",
+      "companion": "fox",
+      "setting": "Brooklyn Bridge wooden pedestrian walkway, midpoint",
+      "scene_description": "Capybara sits cross-legged on the wide wooden-plank pedestrian walkway of the Brooklyn Bridge, sketchbook balanced on both knees, drawing the Manhattan skyline that stretches ahead with meticulous tiny marks, tongue poking out in concentrated artist mode. The stone tower of the bridge rises directly above. Body angled slightly left, hat brim down to help concentration. A fox companion stands behind peering critically over the capybara's shoulder at the sketchbook, one paw raised as if about to offer unsolicited artistic feedback. The bridge cables radiate outward above them in a beautiful fan pattern.",
+      "pose": "cross-legged on walkway, side angle, sketchbook on knees, tongue out",
+      "background": "Brooklyn Bridge wooden planks, stone tower above, cables radiating"
+    },
+    {
+      "page": 13,
+      "category": "shopping",
+      "companion": "bird",
+      "setting": "Fifth Avenue department store window shopping",
+      "scene_description": "Capybara presses both paws and the tip of the snout flat against a Fifth Avenue department store window display, breath fogging a tiny circle on the glass, staring wide-eyed at an elaborate window display featuring tiny mannequins with luggage sets — the capybara clearly imagining the suitcase already packed. Expression of yearning delight, feet on tiptoe for extra height. A tiny sparrow companion perches on the capybara's round hat brim looking in with the same desire. The street behind reflects simplified Fifth Avenue elegance, tall buildings and a yellow taxi.",
+      "pose": "nose to glass, paws flat, on tiptoe, breath fogging window",
+      "background": "Fifth Avenue store window display, street and taxi reflected behind"
+    },
+    {
+      "page": 14,
+      "category": "craft",
+      "companion": "rabbit",
+      "setting": "Brooklyn pottery studio",
+      "scene_description": "Capybara sits at a pottery wheel in a cozy Brooklyn studio, both paws sunk deep into a spinning lump of clay that has gone completely off-center and is wobbling wildly, face absolutely concentrated yet completely unbothered by the chaos, covered in clay splatter from ears to paws. The capybara's apron is already more clay than fabric. Body side-facing left, leaning forward. A rabbit companion at the next wheel has somehow produced a perfect symmetrical vase and is trying very hard not to look too pleased about it. Shelves of finished pottery and hanging aprons fill the background.",
+      "pose": "side-facing left, leaning into pottery wheel, clay everywhere",
+      "background": "Brooklyn studio, pottery shelves, aprons hanging, other wheel behind"
+    },
+    {
+      "page": 15,
+      "category": "temple",
+      "companion": "deer",
+      "setting": "The Metropolitan Museum of Art, Egyptian Hall",
+      "scene_description": "Capybara stands in the Metropolitan Museum's Egyptian Art hall before a towering ancient obelisk or sarcophagus, head craned all the way back, one paw raised and pointing up at the artifact with reverential excitement while the other clutches an audio guide device to one ear, mouth slightly open listening intently. The capybara is deliberately drawn small against the vast ancient object. A deer companion reads the exhibit placard beside with studious attention, wearing tiny reading glasses. The Met's grand hall stretches open and spacious around them with high arched ceilings.",
+      "pose": "head cranked back, one paw pointing up, audio guide to ear",
+      "background": "The Met Egyptian hall, towering artifact above, arched ceiling"
+    },
+    {
+      "page": 16,
+      "category": "viewpoint",
+      "companion": "cat",
+      "setting": "Top of the Rock observation deck, Rockefeller Center",
+      "scene_description": "Capybara grips the safety railing of the Top of the Rock observation deck with both paws, leaning slightly forward, looking out over the breathtaking Manhattan panorama with Central Park's green rectangle clearly visible below and the Empire State Building rising even taller directly across. Profile facing right with a peaceful reverent expression. A cat companion beside them has climbed up onto the railing ledge itself (cautiously) and is sitting with tail wrapped around for balance, looking utterly serene. The simplified city grid stretches in every direction far below.",
+      "pose": "gripping railing, leaning forward, profile right, looking over panorama",
+      "background": "Top of Rock deck, Manhattan panorama, Empire State across, Central Park below"
+    },
+    {
+      "page": 17,
+      "category": "snack",
+      "companion": "panda",
+      "setting": "Lower East Side Jewish deli counter",
+      "scene_description": "Capybara sits at a classic deli counter stool staring in absolute reverence at a New York bagel sandwich that has been placed before them — the bagel is comically large, stuffed with an architectural tower of cream cheese so thick it is nearly as tall as the capybara's head, topped with a single everything-bagel seed that has landed perfectly in the center. Both paws pressed together in a prayer gesture of gratitude before eating. Facing forward, utterly solemn about this bagel. A panda companion beside them has already taken one enormous bite and has cream cheese on both ears, looking blissfully unbothered. Deli counter with jars of pickles visible behind.",
+      "pose": "facing forward, both paws pressed together in reverence before giant bagel",
+      "background": "deli counter, pickle jars, menu board with icons above"
+    },
+    {
+      "page": 18,
+      "category": "festival",
+      "companion": "rabbit",
+      "setting": "Macy's Thanksgiving Day parade route sidewalk",
+      "scene_description": "Capybara stands on a sidewalk watching a massive oversimplified cartoon balloon float drifting by overhead — the balloon shape simplified to a round friendly blob being held by guide ropes — face tilted all the way up with arms outstretched in wonder, about to be completely overwhelmed by the scale of it. Standing on tiptoe for extra height. A rabbit companion behind the capybara is also looking up with binoculars entirely pointed the wrong direction by mistake. The parade route has a simple clean crowd-suggestion background of bobbing round shapes and confetti dots falling from above.",
+      "pose": "tiptoe, arms out, head all the way up at giant balloon",
+      "background": "parade route, giant balloon floating above, confetti falling"
+    },
+    {
+      "page": 19,
+      "category": "dinner",
+      "companion": "fox",
+      "setting": "Little Italy red-checkered tablecloth trattoria",
+      "scene_description": "Capybara sits at a red-and-white checkered tablecloth table at a cozy Little Italy trattoria, dramatically twirling an enormous tangle of spaghetti around a fork using a spoon underneath for support — the spaghetti mound is already bigger than the plate and threatening to slide off — face leaning in with absolute focus and one eye shut in concentration. Body angled forward, elbows on table. A fox companion across the table has a neat small portion on their fork and is watching the capybara's engineering project with amused skepticism. A classic Italian wine bottle candle-holder provides warm background light.",
+      "pose": "elbows on table, fork twirling enormous spaghetti mound, one eye shut",
+      "background": "Little Italy trattoria, red checkered cloth, candle bottle, brick wall"
+    },
+    {
+      "page": 20,
+      "category": "evening_walk",
+      "companion": "bird",
+      "setting": "The High Line elevated park at golden hour",
+      "scene_description": "Capybara strolls along the High Line's distinctive planted pathway at golden hour, surrounded by tall grasses and wildflowers growing from old railroad tracks on either side, carrying a small iced coffee in one raised paw, the other arm swinging freely as the capybara peers over the High Line railing at the Hudson River glowing orange below. Profile facing left, completely at ease. A colorful city bird companion hops along beside on the old wooden railroad tie edging, pecking at seeds between the wildflowers. The simplified Westside building skyline and river fill the background below the railing.",
+      "pose": "profile left, one paw raised with iced coffee, other arm swinging",
+      "background": "High Line planted pathway, railroad ties, Hudson River below, golden sky"
+    },
+    {
+      "page": 21,
+      "category": "museum",
+      "companion": "turtle",
+      "setting": "American Museum of Natural History, dinosaur fossil hall",
+      "scene_description": "Capybara stands in the vast dinosaur fossil hall of the AMNH, tiny at the base of a towering T-Rex skeleton that rears up filling the entire upper frame, both arms at sides hanging in speechless awe, mouth in a perfect O, head cranked all the way back. The T-Rex is simplified into clean elegant bone shapes. A turtle companion at the capybara's feet is reading the exhibit floor placard, completely unbothered by the enormous skeleton, taking meticulous notes in a tiny journal. The museum hall arches dramatically above them.",
+      "pose": "standing tiny, arms at sides, head cranked back, looking up at T-Rex",
+      "background": "AMNH dinosaur hall, T-Rex skeleton filling upper frame, arched ceiling"
+    },
+    {
+      "page": 22,
+      "category": "outdoor",
+      "companion": "duck",
+      "setting": "Hudson River Greenway cycling path",
+      "scene_description": "Capybara pedals a Citi Bike rental bicycle at full speed down the Hudson River Greenway path, leaning dramatically into the wind with the NYC hoodie ballooning behind, baseball cap barely hanging on, pretzel bag somehow still attached to the handlebars and swinging wildly. Heading right across the page in pure motion, speed lines behind. A duck companion in a bike helmet rolls alongside on a tiny matching bicycle with exaggerated urgency, wings flapping unnecessarily for extra aerodynamics. The Hudson River and New Jersey skyline simplify into horizontal bands of calm water and soft shapes behind them.",
+      "pose": "cycling right at full speed, leaning into wind, hoodie ballooning",
+      "background": "Hudson Greenway path, Hudson River and NJ skyline behind"
+    },
+    {
+      "page": 23,
+      "category": "waterside",
+      "companion": "rabbit",
+      "setting": "Brooklyn Bridge Park waterfront, DUMBO",
+      "scene_description": "Capybara sits on a low stone wall at Brooklyn Bridge Park in DUMBO, legs dangling over the East River, leaning back on both arms, gazing dreamily across the water at the Lower Manhattan skyline that glitters ahead. The Brooklyn Bridge arches overhead and behind. Expression blissfully content and slightly windswept. A rabbit companion sits beside with a camera aimed at the skyline trying to get the perfect shot, ears flat in the river breeze. The water below has gentle wave patterns and the bridge cables make elegant diagonal lines above.",
+      "pose": "sitting on wall, legs dangling, leaning back, gazing at skyline",
+      "background": "DUMBO waterfront, Manhattan skyline across river, Brooklyn Bridge above"
+    },
+    {
+      "page": 24,
+      "category": "sport",
+      "companion": "bear",
+      "setting": "Yankee Stadium, front-row seats",
+      "scene_description": "Capybara sits in the front row of Yankee Stadium, both paws curled into fists and raised, leaning so far forward out of the seat that the round hat tumbles off entirely, mid-cheer so intense the cheeks are puffed, eyes wild and huge, completely overtaken by the excitement of the pitch. A bear companion beside wears a foam finger on one paw and is shoveling popcorn into the mouth with the other, also leaning forward. The stadium fills the background with simplified tiered seating arching around, the field visible below in a clean geometric diamond shape.",
+      "pose": "leaning out of seat, fists raised, hat tumbling off, puffed cheeks",
+      "background": "Yankee Stadium seating arching around, field diamond below"
+    },
+    {
+      "page": 25,
+      "category": "art_market",
+      "companion": "cat",
+      "setting": "Brooklyn Flea market in DUMBO, outdoor stalls",
+      "scene_description": "Capybara holds up an enormous vintage New York subway map poster — rolled up and nearly as wide as the capybara's arm span — trying to decide whether to buy it, expression of absolute delight and impracticality wrestling with each other on the face, elbows up, wobbling slightly under the width of the poster. Facing viewer in comedy framing, barely visible to the sides of the giant poster roll. A cat companion stands to the side with already three other impractical vintage finds under both arms, looking at the capybara with knowing solidarity. Brooklyn Flea stalls and the Manhattan Bridge visible in the background.",
+      "pose": "facing viewer, holding giant poster roll at full arm-span, wobbling",
+      "background": "Brooklyn Flea stalls, Manhattan Bridge arch in background"
+    },
+    {
+      "page": 26,
+      "category": "celebration",
+      "companion": "rabbit, bird, fox (boardwalk)",
+      "setting": "Coney Island boardwalk and amusement area",
+      "scene_description": "Capybara skips joyfully down the Coney Island boardwalk holding a giant swirling rainbow cotton candy cone in one raised paw, the other arm out for balance, with a Coney Island Wonder Wheel simplified behind against a clear sky. Face absolutely radiant, feet off the ground mid-skip. A rabbit companion runs beside trying to reach the cotton candy, ears straight back. A bird companion and fox companion follow just behind in a loose joyful parade. The boardwalk stretches ahead with simplified amusement structure silhouettes and the ocean horizon visible at the end.",
+      "pose": "mid-skip, cotton candy raised, arm out, feet off ground",
+      "background": "Coney Island boardwalk, Wonder Wheel behind, ocean horizon ahead"
+    },
+    {
+      "page": 27,
+      "category": "new_friends",
+      "companion": "pigeon, rabbit, cat (farewell circle)",
+      "setting": "Central Park Bethesda Fountain plaza",
+      "scene_description": "Capybara stands at the center of a warm farewell circle in Central Park's Bethesda Fountain plaza, holding out a tiny wrapped gift box toward a pigeon friend in a newsboy cap on the left, while a rabbit and a cat companion stand on the right exchanging small NYC souvenir keychains — a tiny Statue of Liberty and a tiny yellow taxi. All four have matching happy teary eyes, the bittersweet expression of wonderful friendships formed during a great adventure. The Bethesda Fountain simplified with its angel figure is visible behind them, and Central Park autumn tree shapes frame the corners.",
+      "pose": "center of farewell circle, both arms extended toward friends",
+      "background": "Bethesda Fountain behind, Central Park trees framing"
+    },
+    {
+      "page": 28,
+      "category": "packing",
+      "companion": "cat",
+      "setting": "Midtown hotel room floor, departure morning",
+      "scene_description": "Capybara sits on top of a bulging overstuffed suitcase trying to force it shut with both feet pressing down on the lid, arms spread wide for counterbalance, expression showing cheerful determination as the zipper clearly will not close — a giant Statue of Liberty snow globe, a vintage subway map poster rolled tight, a foam Yankees finger, and a half-eaten bagel all prevent the lid from meeting. Facing forward in slapstick hotel-room chaos. A cat companion sits on the hotel room floor studying a second bag with a clipboard and very serious expression, making a packing inventory list. Morning light from the window, city rooftops visible.",
+      "pose": "sitting on suitcase, both feet pressing lid, arms spread, facing forward",
+      "background": "hotel room floor, window with morning city rooftops, second bag"
+    },
+    {
+      "page": 29,
+      "category": "farewell",
+      "companion": "pigeon",
+      "setting": "JFK Airport departure gate window",
+      "scene_description": "Capybara stands at the JFK departure gate's large window with one paw pressed gently flat against the cool glass, the other hand holding the suitcase handle, looking back over the right shoulder with bittersweet sparkly eyes toward the New York City skyline visible through the airport glass — the Empire State Building and One World Trade tower tiny on the horizon. The capybara is smiling through the emotion, hat slightly tilted. The chubby newsboy-capped pigeon companion from page 1 has followed all the way to the gate and sits on the suitcase, cooing goodbye with one wing raised in a solemn farewell salute.",
+      "pose": "back three-quarter, paw on glass, looking right over shoulder",
+      "background": "JFK departure gate glass, NYC skyline through window, Empire State distant"
+    },
+    {
+      "page": 30,
+      "category": "memories",
+      "companion": "rabbit",
+      "setting": "Hotel room floor spread of NYC souvenirs",
+      "scene_description": "Capybara sits cross-legged at the center of a beautifully arranged overhead spread of New York City memories radiating outward: Polaroid photos of the Brooklyn Bridge at sunset, Central Park rowboating, and the T-Rex at the museum; a tiny Statue of Liberty figure; a well-folded subway map; a foam Yankees finger; a hot dog wrapper; a matcha iced coffee cup; a small snow globe of the skyline; and a pigeon feather. The capybara holds one Polaroid of the Manhattan Bridge up toward the viewer with both paws, smiling enormously. A rabbit companion beside them holds up the foam finger and the snow globe simultaneously, grinning. Overhead composition with all items radiating like a scrapbook spread.",
+      "pose": "cross-legged center, holding Polaroid up toward viewer, overhead composition",
+      "background": "overhead spread of all NYC mementos radiating outward around them"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact — Capybara Adventures</title>
+  <meta name="description" content="Get in touch with Capybara Adventures. New book requests, questions, or just say hi to Capy!" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <div class="nav-logo"><span class="paw">🐾</span> Capybara Adventures</div>
+    <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')">☰</button>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="books.html">Books</a></li>
+      <li><a href="about.html">About Capy</a></li>
+      <li><a href="contact.html" class="active">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<section class="page-hero">
+  <div class="container">
+    <h1>Say Hello! 👋</h1>
+    <p>New book requests, questions, or just want to share your colored pages — we'd love to hear from you.</p>
+  </div>
+</section>
+
+<section style="padding:80px 0; background:var(--cream);">
+  <div class="container">
+    <div style="max-width:600px; margin:0 auto;">
+
+      <h2 style="color:var(--dark-brown); margin-bottom:24px; text-align:center;">Send a Message</h2>
+
+      <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" onsubmit="handleSubmit(event)">
+        <div class="form-group">
+          <label for="name">Your Name</label>
+          <input type="text" id="name" name="name" placeholder="Capy Explorer" required />
+        </div>
+        <div class="form-group">
+          <label for="email">Email Address</label>
+          <input type="email" id="email" name="email" placeholder="hello@example.com" required />
+        </div>
+        <div class="form-group">
+          <label for="subject">What's this about?</label>
+          <select id="subject" name="subject">
+            <option value="">Select a topic…</option>
+            <option value="notify">Notify me when a book launches</option>
+            <option value="new-book">Request a new destination</option>
+            <option value="feedback">Share feedback or a photo</option>
+            <option value="wholesale">Wholesale / bulk order</option>
+            <option value="other">Something else</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="message">Message</label>
+          <textarea id="message" name="message" placeholder="Tell us what's on your mind — or which city you'd love to see Capy visit next!" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:100%; font-size:1rem;">
+          Send Message 🐾
+        </button>
+        <p id="form-success" style="display:none; color:var(--rose); margin-top:16px; font-weight:700; text-align:center;">
+          ✅ Message sent! We'll get back to you soon.
+        </p>
+      </form>
+
+      <div style="margin-top:48px; background:var(--white); border-radius:var(--radius); padding:32px; box-shadow:0 4px 20px var(--shadow); text-align:center;">
+        <h3 style="color:var(--dark-brown); margin-bottom:12px;">🌍 Request a Destination</h3>
+        <p>Want to see Capy in your city? Drop us a message — we read every suggestion and build the most-requested cities first!</p>
+        <br />
+        <p style="font-size:0.85rem; color:var(--text-light);">Community wishlist: Seoul · Bali · Bangkok · Paris · Marrakech · Cape Town · Cartagena · Buenos Aires · Sydney</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-logo">🐾 Capybara Adventures</div>
+    <p>Explore the world one coloring page at a time.</p>
+    <p style="margin-top:8px;">© 2026 Capybara Adventures Publishing · <a href="contact.html">Contact</a></p>
+  </div>
+</footer>
+
+<script>
+function handleSubmit(e) {
+  e.preventDefault();
+  document.getElementById('form-success').style.display = 'block';
+  e.target.reset();
+}
+</script>
+
+</body>
+</html>

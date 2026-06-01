@@ -1,0 +1,24 @@
+2026-05-28 17:05:12,156 [INFO] __main__ — Running pipeline for 178 books...
+2026-05-28 17:05:12,169 [INFO] __main__ — === Pipeline start: tokyo ===
+2026-05-28 17:05:12,214 [INFO] __main__ — Matched spreadsheet row: 0
+2026-05-28 17:05:12,256 [INFO] __main__ — Book loaded: Explore Tokyo
+2026-05-28 17:05:12,258 [INFO] __main__ — Storyboard ready — city=Tokyo, pages=30
+2026-05-28 17:05:12,258 [INFO] __main__ — Image provider: pollinations
+2026-05-28 17:05:12,258 [INFO] __main__ — Generating cover...
+2026-05-28 17:06:34,816 [INFO] __main__ — All pages already exist, skipping generation.
+2026-05-28 17:06:39,023 [INFO] __main__ — Interior PDF: /Users/jonathan/kdp_coloring_books/output/interiors/explore_tokyo_interior.pdf
+2026-05-28 17:06:39,167 [INFO] __main__ — Cover PDF: /Users/jonathan/kdp_coloring_books/output/covers/tokyo_cover.pdf
+2026-05-28 17:06:39,168 [INFO] __main__ — Metadata: /Users/jonathan/kdp_coloring_books/output/metadata/tokyo_metadata.json
+2026-05-28 17:06:39,168 [INFO] __main__ — === Pipeline complete: tokyo ===
+
+Done: tokyo
+  Interior PDF : /Users/jonathan/kdp_coloring_books/output/interiors/explore_tokyo_interior.pdf
+  Cover PDF    : /Users/jonathan/kdp_coloring_books/output/covers/tokyo_cover.pdf
+  Metadata     : /Users/jonathan/kdp_coloring_books/output/metadata/tokyo_metadata.json
+2026-05-28 17:06:39,169 [INFO] __main__ — === Pipeline start: venice ===
+2026-05-28 17:06:39,214 [INFO] __main__ — Book loaded: Explore Venice
+2026-05-28 17:06:39,215 [INFO] __main__ — Storyboard ready — city=Venice, pages=30
+2026-05-28 17:06:39,215 [INFO] __main__ — Image provider: pollinations
+2026-05-28 17:06:39,215 [INFO] __main__ — Generating cover...
+2026-05-28 17:08:05,344 [INFO] __main__ — Generating page 03/30: hotel
+2026-05-28 17:09:35,402 [INFO] __main__ — Generating page 04/30: breakfast

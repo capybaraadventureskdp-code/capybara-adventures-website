@@ -1,0 +1,283 @@
+{
+  "city": "Tokyo",
+  "slug": "tokyo",
+  "description": "30 hand-crafted scene descriptions for Capybara Adventures: Tokyo. Each scene is unique in setting, pose, activity, companion, and background. Use this as the TEMPLATE FORMAT for every new city — create a matching file with city-specific equivalents.",
+  "format_guide": {
+    "scene_description": "2-3 sentences. Include: (1) exact named location, (2) specific action/props, (3) capybara pose/direction, (4) companion action, (5) key background detail.",
+    "companion_rule": "Always one small animal companion (rabbit, bird, cat, duck, fox, panda, turtle, deer). Each scene uses a DIFFERENT companion to add variety.",
+    "pose_rule": "Every page must have a different pose direction and body angle — never repeat the same stance across adjacent pages.",
+    "background_rule": "Each page features a DIFFERENT Tokyo landmark or setting as background — never repeat the same backdrop."
+  },
+  "scenes": [
+    {
+      "page": 1,
+      "category": "arrival",
+      "companion": "rabbit",
+      "setting": "Narita International Airport arrivals hall",
+      "scene_description": "Capybara stands in the Narita International Airport arrivals hall, both paws gripping the handle of a rolling suitcase covered in paw-print stickers, gazing wide-eyed at the overhead departure boards displaying airplane icons. Body faces left with head turned right over the shoulder, wearing an excited grin. A tiny rabbit companion in a striped scarf stands beside, pointing enthusiastically toward the exit archway. Large floor-to-ceiling windows behind show a passenger jet parked at the gate.",
+      "pose": "body left, head turned right over shoulder",
+      "background": "airport terminal windows with jet outside"
+    },
+    {
+      "page": 2,
+      "category": "first_glimpse",
+      "companion": "bird",
+      "setting": "Sumida River embankment, Tokyo Tower in distance",
+      "scene_description": "Capybara stands on the Sumida River embankment seeing Tokyo Tower glowing tall in the distance for the very first time, both arms flung open wide, mouth forming a perfect O of pure amazement, head tilted all the way back. A small green bird perches on the capybara's outstretched arm, wings spread, also staring upward in shared awe. Cherry blossom petals drift lazily downward. Tokyo Tower simplified and monumental fills the upper right background above the riverside path.",
+      "pose": "arms wide, head tilted all the way back",
+      "background": "Sumida River bank, Tokyo Tower upper right"
+    },
+    {
+      "page": 3,
+      "category": "hotel",
+      "companion": "duck",
+      "setting": "Traditional Japanese ryokan room",
+      "scene_description": "Capybara kneels on a traditional tatami floor inside a cozy ryokan, carefully unpacking a tiny suitcase — a daruma doll, a sakura hair clip, and a miniature futon roll are being arranged one by one on the woven mat with great care. The capybara's back is partially turned to the viewer, head tilted down in contented concentration, ears perked. A small duck companion peeks into the open suitcase from the side with wide curious eyes. A sliding shoji screen door and a low wooden table with a steaming teapot are visible in the warm background.",
+      "pose": "kneeling, back partially turned, head down",
+      "background": "ryokan tatami room, shoji screen, teapot"
+    },
+    {
+      "page": 4,
+      "category": "breakfast",
+      "companion": "fox",
+      "setting": "Tsukiji outer market sushi counter, early morning",
+      "scene_description": "Capybara sits at a narrow early-morning sushi counter at Tsukiji outer market, gripping chopsticks in both paws with almost comedic intensity, leaning so far forward the round hat tips over one eye, eyes enormous with anticipation as a glistening tuna nigiri piece waits on the wooden board below. A fox companion wearing a tiny chef apron sits on the next stool, already mid-bite with cheeks chipmunk-puffed. Soft golden morning light streams through a small side window, casting long gentle shadows across the simple wooden counter.",
+      "pose": "leaning forward intensely, hat tipping, side profile facing right",
+      "background": "narrow sushi counter, morning light from window"
+    },
+    {
+      "page": 5,
+      "category": "landmark_1",
+      "companion": "cat",
+      "setting": "Base of Tokyo Tower",
+      "scene_description": "Capybara stands at the very base of Tokyo Tower with neck craned completely upward, one paw shielding eyes as if the tower is impossibly bright, the other arm pointing straight up at the red-and-white steel lattice soaring above. Body faces right in a proud three-quarter angle, standing on tiptoe for extra height. A small white cat companion tugs gently at the capybara's kimono sleeve, also craning upward. Tokyo Tower's iconic simplified lattice silhouette fills the entire upper half of the image, vast and commanding.",
+      "pose": "on tiptoe, neck cranked back, one arm pointing up",
+      "background": "Tokyo Tower fills upper half of frame"
+    },
+    {
+      "page": 6,
+      "category": "photo",
+      "companion": "panda",
+      "setting": "Senso-ji Kaminarimon Gate",
+      "scene_description": "Capybara crouches in a photographer's stance at the foot of Senso-ji's famous Kaminarimon Gate, holding a tiny round camera up to one eye, squinting the other dramatically while the tip of the tongue peeks out in concentration. The enormous red Kaminarimon paper lantern hangs directly centered above. The capybara faces the viewer, knees bent, completely absorbed in framing the shot. A panda companion in a tiny monk's hat stands to the side with a red temple stamp book open, patiently posing as the subject.",
+      "pose": "photographer's crouch, facing viewer, one eye squinted",
+      "background": "Kaminarimon lantern centered above"
+    },
+    {
+      "page": 7,
+      "category": "market",
+      "companion": "deer",
+      "setting": "Harajuku Takeshita Street market stall",
+      "scene_description": "Capybara explores a colorful Harajuku market stall overflowing with kawaii accessories, holding up an enormous sparkly hair bow that is comically bigger than the capybara's entire head, tilting it back and forth to admire it from every angle with a face of pure delight. Body faces left, leaning forward, one foot slightly raised in excitement. A deer companion wearing a flower crown peeks around the edge of the stall curtain in the background, clearly tempted. Stall curtains printed with decorative wave patterns and tiny star shapes hang overhead in soft folds.",
+      "pose": "facing left, leaning forward, one foot raised",
+      "background": "Harajuku stall with decorative curtains overhead"
+    },
+    {
+      "page": 8,
+      "category": "street_food",
+      "companion": "bird",
+      "setting": "Asakusa street food stall",
+      "scene_description": "Capybara stands at an Asakusa street stall holding a freshly made taiyaki (fish-shaped waffle pastry) in both paws up close to the face, examining it with crossed eyes of complete fascination, steam curling upward from the hot filling. Body faces forward, feet planted wide for balance, thoroughly enchanted by the fish shape. A tiny yellow bird companion has landed right on top of the taiyaki, wings spread, also staring at the food. Behind them, a simplified street stall counter with hanging decorative banners and paper lanterns is visible.",
+      "pose": "facing forward, feet wide, holding food up to face",
+      "background": "street stall counter, paper banners overhead"
+    },
+    {
+      "page": 9,
+      "category": "park",
+      "companion": "rabbit",
+      "setting": "Yoyogi Park under full cherry blossom bloom",
+      "scene_description": "Capybara lies flat on their back in Yoyogi Park beneath a massive cherry blossom tree in peak bloom, all four limbs splayed out in every direction like a happy starfish, eyes completely closed with a broad crescent-moon smile, dozens of pink petals settling on the kimono and hat. A rabbit companion sits cross-legged beside the capybara, also looking up at the blossoms with serene closed eyes. The park stretches wide and airy all around them with soft grass, a distant pathway, and the cherry blossom branches spreading across the top of the frame.",
+      "pose": "lying flat on back, limbs starfish-splayed",
+      "background": "Yoyogi Park grass, blossom branches overhead"
+    },
+    {
+      "page": 10,
+      "category": "local_animal",
+      "companion": "none — Shiba Inu IS the companion",
+      "setting": "Neighborhood park path",
+      "scene_description": "Capybara crouches down to ground level face-to-face with an adorable fluffy Shiba Inu puppy on a neighborhood park path, both of them pressing their noses together in a tiny Eskimo kiss, both wearing identically surprised-delighted expressions with tiny cartoon sparkle lines radiating around their noses. It is a tight intimate two-character composition at eye level. The capybara's round hat is knocked completely sideways from leaning down so quickly. Simple grass and a park fence post are the only background elements, keeping all attention on the moment.",
+      "pose": "crouched to ground level, nose-to-nose",
+      "background": "simple park path, minimal background"
+    },
+    {
+      "page": 11,
+      "category": "transport",
+      "companion": "turtle",
+      "setting": "Shinkansen bullet train window",
+      "scene_description": "Capybara leans dramatically far out of a sleek Shinkansen bullet train window, one arm waving enthusiastically in big circles, the other gripping the window ledge for dear life, cheeks cartoon-puffed by the rushing air and speed lines flying past. Facing right in a dynamic profile, kimono billowing behind. A turtle companion pokes its head out of the window below, shell decorated with speed-line patterns etched on, looking thrilled. The train window frame is clean and geometric, with simplified countryside — rolling hills, a distant volcano shape — blurring past behind them.",
+      "pose": "leaning out window, profile right, arm waving wide",
+      "background": "Shinkansen window, countryside + Mt. Fuji shape in distance"
+    },
+    {
+      "page": 12,
+      "category": "landmark_2",
+      "companion": "duck",
+      "setting": "Tokyo Skytree observation deck",
+      "scene_description": "Capybara sits cross-legged directly on the floor of the Tokyo Skytree observation deck, sketchbook propped on their knees and pencil held carefully in one paw, tongue sticking out sideways in artist's concentration, drawing the tiny city grid that stretches far below through the massive floor-to-ceiling glass windows. The capybara faces slightly left, completely absorbed. A duck companion has curled up and fallen fast asleep against the capybara's side, bill tucked in. The glass window fills most of the background with a simplified miniature Tokyo grid visible far below.",
+      "pose": "cross-legged on floor, side angle, tongue out drawing",
+      "background": "Skytree floor-to-ceiling glass, Tokyo grid below"
+    },
+    {
+      "page": 13,
+      "category": "shopping",
+      "companion": "cat",
+      "setting": "Akihabara electronics shop",
+      "scene_description": "Capybara stands in a neon-lit Akihabara electronics shop holding up two different robot toys simultaneously — one in each raised paw — feet barely touching the floor from excitement, swiveling the head back and forth between the two with an expression of absolutely paralyzing indecision, eyes literally spinning with overwhelm. Facing forward in a pure comedy framing. A cat companion reaches up from below trying to grab one of the robots to settle the debate. Behind them, shelves stacked floor to ceiling with game cartridge cases and electronic boxes fill the background.",
+      "pose": "facing forward, both arms raised holding toys, feet off floor",
+      "background": "Akihabara electronics shelves, stacked items everywhere"
+    },
+    {
+      "page": 14,
+      "category": "craft",
+      "companion": "bird",
+      "setting": "Harajuku origami workshop",
+      "scene_description": "Capybara sits hunched over a low craft table at a Harajuku origami workshop, both paws trembling with delicate concentration as they fold a nearly-finished paper crane, brow knitted in a tiny furrow, tongue just visible at the corner of the mouth. The finished crane sits wobbling on the table, slightly lopsided but clearly beloved. Colorful paper sheets are scattered all around the table in various stages of folding. A bossy bird companion perches directly on the capybara's head, peering down critically at the work. Rows of hanging finished paper cranes fill the background above on strings.",
+      "pose": "hunched over table, side-facing, tongue out in concentration",
+      "background": "origami workshop, paper cranes hanging above"
+    },
+    {
+      "page": 15,
+      "category": "temple",
+      "companion": "deer",
+      "setting": "Meiji Shrine grand torii entrance path",
+      "scene_description": "Capybara walks slowly along the long forested approach path to Meiji Shrine, head tilted all the way back to take in the towering wooden torii gate above, one paw touching the smooth ancient wood of the pillar reverently. The capybara is deliberately drawn small against the enormous gate to emphasize its scale — a tiny figure beneath a massive structure. A deer companion walks quietly and gracefully beside, also gazing upward with a serene expression. Dappled tree-canopy light filters down, and the forest path extends straight and peaceful behind them.",
+      "pose": "walking forward, head back, one paw on pillar",
+      "background": "Meiji Shrine torii gate towering above, forest path"
+    },
+    {
+      "page": 16,
+      "category": "viewpoint",
+      "companion": "cat",
+      "setting": "Rooftop garden overlooking Shibuya at dusk",
+      "scene_description": "Capybara sits at a low railing of a rooftop garden terrace, chin resting heavily on both folded paws, gazing out in a dreamy side profile over the golden-hour Tokyo skyline stretching endlessly below. Expression is peaceful and nostalgic. A cat companion sits on the railing itself beside the capybara, tail curled around its own body, also staring out contentedly at the soft orange cityscape. The city below is simplified into gentle rounded silhouettes with Tokyo Tower a tiny distinctive shape in the far distance. The sky above holds simple cloud shapes.",
+      "pose": "chin on paws, side profile facing right, gazing into distance",
+      "background": "Shibuya rooftop panorama, golden hour, Tower tiny in distance"
+    },
+    {
+      "page": 17,
+      "category": "snack",
+      "companion": "rabbit",
+      "setting": "Tiny Shimokitazawa matcha café",
+      "scene_description": "Capybara is deeply settled into a cozy wooden café chair at a Shimokitazawa matcha café, both paws wrapped around a matcha latte glass that is nearly as big as the capybara's entire torso, eyes crescent-shaped in absolute bliss, cheeks rosy, steam curling up in a gentle wisp. The capybara faces forward, sinking further into the chair with each sip, posture completely melted with happiness. A rabbit companion sits across the tiny table with a much smaller cup, watching with an amused raised eyebrow. Café shelves with small plant pots and a rain-dotted window are visible behind.",
+      "pose": "facing forward, sinking into chair, holding giant cup",
+      "background": "matcha café interior, rainy window, plant shelves"
+    },
+    {
+      "page": 18,
+      "category": "festival",
+      "companion": "panda",
+      "setting": "Tanabata festival",
+      "scene_description": "Capybara skips joyfully through a Tanabata summer festival, one arm stretched high reaching up to tie a colorful tanzaku wish paper onto an overhanging bamboo branch, the other arm swung wide for balance, both feet off the ground mid-skip in pure celebration. Face alight with open-mouthed joy. A panda companion in a yukata skips alongside in matching energy, already tying their own tanzaku. The background is filled with hanging colored paper strips, star decorations, and bamboo branch silhouettes creating a festive layered pattern.",
+      "pose": "mid-skip, one arm reaching up, both feet off ground",
+      "background": "Tanabata paper strips, stars, bamboo branches"
+    },
+    {
+      "page": 19,
+      "category": "dinner",
+      "companion": "fox",
+      "setting": "Classic Shibuya ramen shop counter",
+      "scene_description": "Capybara sits at a small ramen shop counter with a massive steaming bowl of tonkotsu ramen centered before them, one paw holding chopsticks with a dramatic tangle of noodles caught and trailing down, the other paw hovering over the broth rim, cheeks puffed with the effort of the perfect first bite. Eyes enormous, tilted forward with total focus. A fox companion beside them reads a small menu card on the wall, stealing jealous side-eyes at the ramen. Simple paper lanterns hang low above the counter, and a small noren curtain hangs at the shop entrance in the background.",
+      "pose": "leaning forward over bowl, chopsticks mid-tangle",
+      "background": "ramen counter, paper lanterns, noren curtain"
+    },
+    {
+      "page": 20,
+      "category": "evening_walk",
+      "companion": "rabbit",
+      "setting": "Asakusa Nakamise shopping lane evening",
+      "scene_description": "Capybara strolls leisurely through the Asakusa Nakamise shopping arcade in the warm evening, holding a glowing round paper lantern in one raised paw, the other arm swinging naturally at the side, window-shopping with a relaxed smile at the traditional crafts and snacks displayed in the stall windows. Body faces left in a gentle profile. A rabbit companion scurries along beside carrying a small paper bag of fresh-bought snacks, ears bouncing with each step. Traditional shop façades line both sides of the lane, simplified with decorative noren curtains and warm circular lanterns creating a cozy corridor.",
+      "pose": "strolling left, lantern raised, arm swinging",
+      "background": "Nakamise lane, shop façades both sides, lanterns"
+    },
+    {
+      "page": 21,
+      "category": "museum",
+      "companion": "turtle",
+      "setting": "Edo-Tokyo Museum main hall",
+      "scene_description": "Capybara stands in the vast main hall of the Edo-Tokyo Museum before a full-scale reproduction of an Edo period wooden townhouse facade, head craned straight up, both arms hanging at the sides in complete speechless awe — the capybara deliberately tiny at the very bottom of the frame to emphasize the towering scale of the ancient structure above. A turtle companion examines a small interpretive placard on a museum pedestal beside the capybara, reading carefully with reading glasses on. The museum exhibit hall fills most of the image with the towering historical reconstruction.",
+      "pose": "standing tiny at base, arms at sides, head straight up",
+      "background": "Edo-Tokyo Museum exhibit towering above"
+    },
+    {
+      "page": 22,
+      "category": "outdoor",
+      "companion": "bird",
+      "setting": "Sumida River cycling path",
+      "scene_description": "Capybara pedals a rented bicycle with great energy along the Sumida Riverwalk cycling path, body leaning forward into the breeze, both paws firmly on the handlebars, cherry blossom petals plastered all over the kimono and stuck comedically on the hat brim from the speed of travel. Heading right across the full page in joyful motion, speed lines trailing behind. A bird companion flies alongside at bicycle height, wings spread wide, matching pace perfectly. The river shimmers behind them and gentle blossom tree silhouettes line the path.",
+      "pose": "cycling right, leaning forward, speed lines",
+      "background": "Sumida riverside path, blossom trees, river"
+    },
+    {
+      "page": 23,
+      "category": "waterside",
+      "companion": "duck",
+      "setting": "Odaiba beach dock, Tokyo Bay",
+      "scene_description": "Capybara sits on the very edge of the Odaiba beach dock, both legs dangling freely over the water far below, leaning back on both arms planted behind, gazing out at Tokyo Bay with eyes half-closed in peaceful contentment. The Rainbow Bridge spans the harbor in the distance as a simplified graceful arc. Expression is dreamy and satisfied, the capybara's hat sitting perfectly askew. A duck companion bobs cheerfully in the water directly below, looking up with a quack-shaped smile. The bay stretches wide and open with gentle wave patterns and soft horizon.",
+      "pose": "sitting on dock edge, legs dangling, leaning back on arms",
+      "background": "Odaiba dock, Tokyo Bay, Rainbow Bridge in distance"
+    },
+    {
+      "page": 24,
+      "category": "sport",
+      "companion": "panda",
+      "setting": "Ryogoku Kokugikan sumo arena",
+      "scene_description": "Capybara sits in the front row of Ryogoku Kokugikan sumo arena mid-cheer — both fists raised in the air, leaning so far out of the seat the round hat is flying completely off the head, expression wild with excitement at the match happening below. Body angled right toward the circular dohyo ring. A panda companion in the adjacent seat has pulled the program over their face in secondhand overwhelm, also peeking one eye out to watch. The sumo ring below is visible as a simplified circle with decorative rope edging, and tiered arena seating fills the background.",
+      "pose": "front-row leaning, both fists raised, hat flying off",
+      "background": "sumo arena, dohyo ring below, tiered seating"
+    },
+    {
+      "page": 25,
+      "category": "art_market",
+      "companion": "cat",
+      "setting": "Kappabashi kitchen street",
+      "scene_description": "Capybara stands in Kappabashi kitchen district holding an enormous handmade ceramic ramen bowl directly up in front of the body — the bowl is comedically bigger than the capybara's entire upper half, completely obscuring the torso — laughing with an open wide mouth visible above the rim at the absurdity of the situation, wobbling under the weight. Facing the viewer in pure visual comedy. A cat companion struggles valiantly to help steady the bowl from the side with both paws. Behind them, shelves and display racks of restaurant supply items, ladles, and cookware fill the market stall background.",
+      "pose": "facing viewer, hidden behind giant bowl, laughing above rim",
+      "background": "Kappabashi stall, cookware shelves everywhere"
+    },
+    {
+      "page": 26,
+      "category": "celebration",
+      "companion": "bunny, bird, fox (conga line)",
+      "setting": "Awa Odori summer street festival",
+      "scene_description": "Capybara dances with complete abandon in an Awa Odori summer street parade, both arms raised overhead in the traditional fan-armed dance position, one foot kicking up behind in the signature dance step, face absolutely radiant with joy. Part of a flowing conga-like parade line stretching behind — a bunny, a bird, and a fox all dancing in matching traditional steps, each wearing a simple yukata. Decorative festival lanterns in rows and flowing fabric banners stripe the background in a festive rhythm of shapes.",
+      "pose": "both arms overhead, one foot kicking up, full dance step",
+      "background": "Awa Odori lanterns, fabric banners, parade line"
+    },
+    {
+      "page": 27,
+      "category": "new_friends",
+      "companion": "bunny, bird, panda (group farewell)",
+      "setting": "Yoyogi Park under cherry blossoms",
+      "scene_description": "Capybara stands warmly in the center of a small farewell circle in Yoyogi Park, holding out a small carefully wrapped gift box toward a bunny friend on the left while simultaneously receiving a tiny bouquet of origami paper flowers from a bird companion on the right, and a panda in the background waves with both paws. All four characters have identical happy teary eyes and bright smiles — the bittersweet expression of a wonderful friendship formed on a journey. A few cherry blossom sprigs frame the corners of the simple warm background, and soft grass is at their feet.",
+      "pose": "center of circle, both arms extended giving and receiving gifts",
+      "background": "Yoyogi Park, cherry blossom framing, grass"
+    },
+    {
+      "page": 28,
+      "category": "packing",
+      "companion": "cat",
+      "setting": "Ryokan room floor, departure morning",
+      "scene_description": "Capybara sits directly on top of a completely overstuffed suitcase trying to close it by pressing both feet down on the lid, arms spread wide for leverage, face showing cheerful determination mixed with mild panic as the lid refuses to shut — a daruma doll, a paper fan, a sumo keychain, and an origami crane all peek out from the gap around the edges. Sitting upright on the lid, body facing forward in slapstick comedy composition. A cat companion sits on the ryokan tatami floor beside the suitcase looking entirely skeptical with one paw raised in silent judgment. Tatami mat detail and a shoji screen are visible.",
+      "pose": "sitting on suitcase lid, feet pressing, arms spread",
+      "background": "ryokan tatami floor, shoji screen, morning light"
+    },
+    {
+      "page": 29,
+      "category": "farewell",
+      "companion": "bird",
+      "setting": "Narita Airport departure gate window",
+      "scene_description": "Capybara stands at the large departure gate window at Narita Airport, one paw pressed flat and gently against the glass, the other hand holding the rolling suitcase handle, looking back over the left shoulder with bittersweet teary-sparkly eyes toward the Tokyo skyline visible through the airport window in the distance — Tokyo Tower is a tiny but unmistakable silhouette on the horizon. The capybara is smiling bravely. A small bird companion perches on the suitcase handle, also looking back toward the city with a little wing raised in a quiet goodbye wave.",
+      "pose": "back three-quarter angle, one paw on glass, looking over shoulder",
+      "background": "departure gate glass, Tokyo skyline through window, Tower distant"
+    },
+    {
+      "page": 30,
+      "category": "memories",
+      "companion": "rabbit",
+      "setting": "Cozy floor spread of Tokyo souvenirs",
+      "scene_description": "Capybara sits cross-legged in the center of a beautifully arranged overhead-view spread of Tokyo memories radiating outward in all directions: Polaroid photos of Tokyo Tower, Senso-ji, and the Shinkansen; a small red daruma doll; an origami crane; a sakura hair clip; a matcha candy wrapper; a Shinkansen model; a pair of chopsticks tied with a ribbon; and a taiyaki paper sleeve. The capybara holds up one favorite Polaroid photo of Tokyo Tower toward the viewer with both paws, smiling broadly and openly with pure joy at the whole journey. A rabbit companion beside them carefully sorts through the pile, holding up the taiyaki wrapper to show it off with a nostalgic grin. Overhead composition, items radiating naturally around them.",
+      "pose": "cross-legged center, holding Polaroid up to viewer, overhead view",
+      "background": "overhead spread of all Tokyo mementos radiating outward"
+    }
+  ]
+}

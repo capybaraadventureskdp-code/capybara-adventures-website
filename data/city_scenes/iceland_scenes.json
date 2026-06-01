@@ -1,0 +1,306 @@
+{
+  "city": "Reykjavik",
+  "slug": "iceland",
+  "scenes": [
+    {
+      "page": 1,
+      "category": "arrival",
+      "companion": "puffin",
+      "setting": "Keflavik International Airport, stepping outside into the Icelandic wind",
+      "scene_description": "Capybara bursts through the Keflavik Airport exit doors into the sharp Icelandic wind, immediately getting hit by a powerful gust that blows the pompom hat sideways and inflates the lopapeysa sweater like a balloon, eyes wide in delighted shock at the cold freshness. Rolling suitcase dragged behind, body angled left against the wind. A round puffin companion in a tiny orange beak bumper hat waddles out beside them, completely unfazed by the wind — this is home weather for the puffin.",
+      "pose": "blown by wind, hat sideways, sweater inflated, body angled left",
+      "background": "Keflavik Airport exterior exit doors — flat grey Icelandic landscape, lava fields stretching to the horizon, overcast dramatic sky, airport control tower visible",
+      "forbidden_backgrounds": "Hallgrímskirkja, Northern Lights, colorful houses, any Reykjavik city scene"
+    },
+    {
+      "page": 2,
+      "category": "first_glimpse",
+      "companion": "arctic_fox",
+      "setting": "Road into Reykjavik, first view of Hallgrímskirkja on the skyline",
+      "scene_description": "Capybara presses both paws flat against the bus window, nose touching the cold glass, staring at Hallgrímskirkja's dramatic rocket-like concrete spire rising above the low colorful city in the distance — the most extraordinary church silhouette imaginable against a grey Icelandic sky. Mouth open in a perfect O of astonishment. A small Arctic fox companion sits in the adjacent seat, also looking out with ears perked forward, breath fogging its own smaller window patch.",
+      "pose": "nose to bus window, both paws on glass, mouth open in amazement",
+      "background": "Bus window view — Hallgrímskirkja concrete rocket spire rising above the distant low Reykjavik rooftops on the horizon",
+      "forbidden_backgrounds": "Northern Lights, Blue Lagoon, airport — only the bus window and church spire on horizon"
+    },
+    {
+      "page": 3,
+      "category": "hotel",
+      "companion": "puffin",
+      "setting": "Cozy Reykjavik guesthouse room with wool blankets",
+      "scene_description": "Capybara has burrowed completely under an enormous pile of Icelandic wool blankets on the guesthouse bed — only the round head sticks out from the cozy cocoon, expression of absolute bliss at the warmth after the cold outside. The paw-print suitcase stands open beside the bed, a small lopapeysa sweater folded on top. A puffin companion sits on the pillow beside the wrapped capybara, looking very pleased to be in such a warm place.",
+      "pose": "burrowed under pile of wool blankets, only head visible, pure bliss",
+      "background": "Cozy guesthouse room interior — wooden walls, bed with thick wool blankets, small lamp on nightstand, frost on the window showing grey sky outside",
+      "forbidden_backgrounds": "Hallgrímskirkja, Northern Lights, any outdoor scene — only the cozy room interior"
+    },
+    {
+      "page": 4,
+      "category": "breakfast",
+      "companion": "arctic_fox",
+      "setting": "Reykjavik bakery café morning",
+      "scene_description": "Capybara sits at a wooden café table with an enormous bowl of skyr yogurt topped with berries and a thick slice of dark rye bread beside it, leaning forward with a spoon bigger than appropriate for the delicate task, expression of intense curiosity about this very Icelandic breakfast arrangement. Body angled right, hat still on, clearly arrived directly from the cold outside. An Arctic fox companion across the table has a cup of coffee and is watching the capybara's skyr introduction with great amusement.",
+      "pose": "leaning forward over skyr bowl, oversized spoon, hat still on, body right",
+      "background": "Reykjavik bakery cafe interior — wooden tables, warm lighting, frost on window, pastries in display case",
+      "forbidden_backgrounds": "Hallgrímskirkja, Northern Lights, outdoor Iceland — only the warm cafe interior"
+    },
+    {
+      "page": 5,
+      "category": "landmark_1",
+      "companion": "puffin",
+      "setting": "Standing at the base of Hallgrímskirkja, looking up",
+      "scene_description": "Capybara stands directly at the base of Hallgrímskirkja and cranes their neck all the way back to look up the full height of the concrete organ-pipe facade rising dramatically above — the stepped basalt-column design tapering to the central tower far above. The capybara is intentionally tiny at the bottom of the frame to emphasize the church's extraordinary scale. A puffin companion stands beside on the cobblestones, also looking up, wings held at sides like a small formal dignitary.",
+      "pose": "tiny at church base, neck all the way back, looking straight up",
+      "background": "Standing directly at the BASE of Hallgrímskirkja — the basalt-column concrete facade rising dramatically above, filling the upper frame completely",
+      "forbidden_backgrounds": "Northern Lights, Blue Lagoon, colorful houses — only Hallgrímskirkja facade towering above"
+    },
+    {
+      "page": 6,
+      "category": "photo",
+      "companion": "arctic_fox",
+      "setting": "Leif Erikson statue outside Hallgrímskirkja",
+      "scene_description": "Capybara strikes a heroic pose beside the Leif Erikson Viking explorer statue — one paw raised in matching explorer fashion, the other on the suitcase handle as a prop for 'brave traveler,' chin lifted in imitation of the statue's proud gaze. Body angled to match the statue's pose as closely as possible. A fox companion crouches below the frame with a tiny camera, doing the actual photographing, clearly directing the whole photoshoot with professional seriousness.",
+      "pose": "heroic pose matching Leif Erikson statue, one paw raised, chin up",
+      "background": "Leif Erikson Viking explorer statue outside Hallgrímskirkja — the statue and church visible together, city skyline below",
+      "forbidden_backgrounds": "Northern Lights, Blue Lagoon — only Hallgrímskirkja area with Leif Erikson statue"
+    },
+    {
+      "page": 7,
+      "category": "market",
+      "companion": "puffin",
+      "setting": "Kolaportið flea market indoor hall, weekend",
+      "scene_description": "Capybara browses through Kolaportið flea market holding up a vintage Icelandic lopapeysa wool sweater that is about four sizes too large — it reaches to the knees — examining the traditional geometric pattern with great admiration, head tilted sideways deciding. Body faces left. A puffin companion is trying on a knitted hat three sizes too large that has slipped completely over its head, wings spread trying to find the eye holes, entirely committed to this purchase.",
+      "pose": "body left, holding enormous lopapeysa up against self, head tilted deciding",
+      "background": "Kolaportið flea market INDOOR hall — racks of woolens, vintage items, indoor market lighting, no outdoor Iceland visible",
+      "forbidden_backgrounds": "Hallgrímskirkja, Northern Lights, outdoor — only the indoor market hall"
+    },
+    {
+      "page": 8,
+      "category": "street_food",
+      "companion": "arctic_fox",
+      "setting": "Bæjarins Beztu hot dog cart, the famous Reykjavik hot dog stand",
+      "scene_description": "Capybara stands at the legendary Bæjarins Beztu hot dog cart holding Iceland's famous pylsur hot dog in both paws — topped with remoulade sauce, crispy onions, and raw onion exactly as the Icelanders order it — staring at the assembled creation with the reverence of someone before a masterpiece. Body faces the viewer. An Arctic fox companion beside them has already finished their hot dog in approximately one bite and is now licking paw with profound satisfaction.",
+      "pose": "facing viewer, holding Icelandic hot dog in both paws with reverence",
+      "background": "Bæjarins Beztu hot dog cart exterior — the famous small street cart with umbrella, Reykjavik OLD HARBOUR visible behind with fishing boats and harbour buildings",
+      "forbidden_backgrounds": "Hallgrímskirkja, Northern Lights — only the hot dog cart and harbour behind"
+    },
+    {
+      "page": 9,
+      "category": "park",
+      "companion": "duck",
+      "setting": "Tjörnin pond in central Reykjavik, feeding the swans",
+      "scene_description": "Capybara kneels at the edge of Tjörnin pond in central Reykjavik, holding out a piece of bread toward a very large and confident swan that is waddling directly toward the offering — the capybara is clearly not prepared for how large and direct this swan is, leaning back slightly with wide eyes. A duck companion bobs in the water nearby looking smug, having clearly warned the capybara about the swan's confidence.",
+      "pose": "kneeling at pond edge, offering bread, leaning back from approaching swan",
+      "background": "Tjörnin pond edge — the pond with swans, Reykjavik City Hall building across the water, distant church spire. This is Tjörnin pond PAGE 1 of 2",
+      "forbidden_backgrounds": "Northern Lights, airport, Blue Lagoon — only Tjörnin pond and City Hall across water"
+    },
+    {
+      "page": 10,
+      "category": "local_animal",
+      "companion": "none — puffin IS companion",
+      "setting": "Akurey island puffin colony, close encounter",
+      "scene_description": "Capybara sits on a grassy clifftop on a small island, face-to-face with a puffin that has waddled up to within nose-touching distance — both staring at each other in identical silent fascination, the puffin's bright orange beak almost touching the capybara's darker snout. The capybara has both paws flat on knees in a polite frozen sit. Nearby puffin companions in the background shuffle about ignoring the moment entirely. The grey Atlantic sea stretches out behind the cliffside.",
+      "pose": "sitting on clifftop, face to face nose-to-beak with puffin, both frozen fascinated",
+      "background": "Grassy clifftop on Akurey island puffin colony — Atlantic ocean below the cliff edge, sky above, other puffins on the grass nearby",
+      "forbidden_backgrounds": "Hallgrímskirkja, Northern Lights, any city — only the grassy clifftop and Atlantic ocean"
+    },
+    {
+      "page": 11,
+      "category": "transport",
+      "companion": "arctic_fox",
+      "setting": "Reykjavik city bus, window seat",
+      "scene_description": "Capybara sits in a bus window seat with condensation fogging the window, using one paw to clear a round peephole in the fog to look out at the colorful Reykjavik houses passing by — the colorful house facades drawn as CLEAN OUTLINED SHAPES ONLY with pure white interiors, leaving the color to the colorist. Body facing right. An Arctic fox companion in the adjacent seat has fallen completely asleep against the window, one ear flat.",
+      "pose": "clearing fog from bus window with paw, peering through peephole, delighted",
+      "background": "Reykjavik city bus INTERIOR — bus seats, round windows showing bright colorful corrugated iron houses (red, blue, yellow, green facades) outside the window",
+      "forbidden_backgrounds": "Hallgrímskirkja, Northern Lights — only bus interior and house outlines through window. CRITICAL: Houses must be outlined shapes with pure white interiors, NO color fills of any kind"
+    },
+    {
+      "page": 12,
+      "category": "landmark_2",
+      "companion": "puffin",
+      "setting": "Harpa Concert Hall exterior, geometric glass facade",
+      "scene_description": "Capybara stands before the Harpa Concert Hall's extraordinary geometric glass facade, both paws pressed to the glass looking at the hexagonal honeycomb pattern of windows that reflect the sky and harbour in shifting colours and angles. Head tilted in total architectural fascination. A puffin companion stands beside pressing its orange beak to the glass as well, breath fogging a small circle. The harbour and Mount Esja are visible beyond Harpa's reflection.",
+      "pose": "both paws on Harpa glass, head tilted, looking at hexagonal reflections",
+      "background": "Harpa Concert Hall exterior — the extraordinary geometric hexagonal glass honeycomb facade filling most of the frame, harbour and Mount Esja reflection in the glass",
+      "forbidden_backgrounds": "Hallgrímskirkja, Northern Lights — only the Harpa glass facade"
+    },
+    {
+      "page": 13,
+      "category": "shopping",
+      "companion": "arctic_fox",
+      "setting": "Laugavegur street woolens and design shop",
+      "scene_description": "Capybara stands in a woolens shop on Laugavegur street completely wrapped in a lopapeysa sweater that has been pulled on over the existing outfit — arms stuck halfway out of the sleeves, pompom hat squished underneath the sweater collar — wearing an expression of 'this is absolutely happening' as they admire the geometric pattern in the shop mirror. An Arctic fox assistant holds up a second sweater option with a professional stylist's neutral expression.",
+      "pose": "wrapped in lopapeysa sweater over outfit, arms half-in sleeves, looking in mirror",
+      "background": "Laugavegur street woolens SHOP INTERIOR — sweaters hanging on every wall, wooden interior, no outdoor Iceland visible",
+      "forbidden_backgrounds": "Hallgrímskirkja, Northern Lights, outdoor — only the woolens shop interior"
+    },
+    {
+      "page": 14,
+      "category": "craft",
+      "companion": "puffin",
+      "setting": "Ceramic workshop with lava rock and volcanic ash clay",
+      "scene_description": "Capybara sits at a pottery wheel in a small Reykjavik ceramic studio, both paws working a lump of volcanic clay that has gone completely lopsided. The volcanic clay is shown as SIMPLE OUTLINED BLOB SHAPES with pure white interiors — NOT dark gray fills. Clay splatter blobs on the apron are outlined shapes only. The capybara face shows concentrated delight. A puffin companion at the next wheel has produced a perfect symmetrical bowl.",
+      "pose": "at pottery wheel, volcanic clay lopsided, clay spattered everywhere, concentrating",
+      "background": "Ceramic workshop INTERIOR in Reykjavik — pottery wheels, dark volcanic clay, finished pieces on shelves, no outdoor view",
+      "forbidden_backgrounds": "Hallgrímskirkja, Northern Lights, outdoor — only the ceramic studio interior. CRITICAL: All clay must be white-interior outlined blobs, never gray-filled"
+    },
+    {
+      "page": 15,
+      "category": "temple",
+      "companion": "arctic_fox",
+      "setting": "Þingvellir National Park, Alþingi parliament site",
+      "scene_description": "Capybara walks carefully along the narrow path through the great rift valley at Þingvellir, the towering basalt canyon walls rising on both sides — here the North American and Eurasian tectonic plates are visibly pulling apart — head turning left and right in geological wonder. Body small against the enormous geological formation. An Arctic fox companion walks ahead on the path, tail raised, acting as confident guide through the historic site.",
+      "pose": "walking through rift valley path, head turning in wonder, small against canyon walls",
+      "background": "Þingvellir National Park rift valley — towering basalt canyon walls on BOTH sides of the path, stretching upward. No city, no church, no aurora",
+      "forbidden_backgrounds": "Hallgrímskirkja, Northern Lights, Reykjavik — only the dramatic Þingvellir rift valley walls"
+    },
+    {
+      "page": 16,
+      "category": "viewpoint",
+      "companion": "puffin",
+      "setting": "Perlan glass dome observation deck, view over Reykjavik",
+      "scene_description": "Capybara stands at the curved glass windows of the Perlan dome observation deck, both paws on the glass, looking out over the entire sweeping panorama of Reykjavik below — the colourful corrugated iron rooftops, Hallgrímskirkja's spire, the harbour, and Mount Esja across the bay still capped with snow. Profile facing right, expression serene and awestruck. A puffin companion stands beside looking equally impressed for a creature that normally has an aerial view.",
+      "pose": "both paws on Perlan glass, profile right, looking over full Reykjavik panorama",
+      "background": "Perlan dome observation deck — curved glass windows showing the full Reykjavik panorama below: colorful rooftops, Hallgrímskirkja spire, harbour, snowy Esja mountain across the bay",
+      "forbidden_backgrounds": "Northern Lights — only the Perlan observation deck panorama view in daylight"
+    },
+    {
+      "page": 17,
+      "category": "snack",
+      "companion": "arctic_fox",
+      "setting": "Cozy Reykjavik café during a passing snowstorm",
+      "scene_description": "Capybara sits deep in a large cushioned window-seat armchair in a cozy Reykjavik café, both paws wrapped around an enormous mug of hot chocolate topped with a cloud of whipped cream, watching a sudden snowstorm swirl outside the frosted window. The capybara has bundled the scarf up to the chin. Expression of utter warm contentment. An Arctic fox companion is curled in the adjacent armchair with an equally enormous mug, completely asleep, a faint smile visible.",
+      "pose": "deep in armchair, both paws around giant hot chocolate, watching snowstorm outside",
+      "background": "Cozy Reykjavik cafe INTERIOR — cushioned armchairs, warm lighting, large frosted window with a snowstorm swirling outside. Completely different from page 4 cafe",
+      "forbidden_backgrounds": "Hallgrímskirkja, Northern Lights — only the cozy armchair cafe with snowstorm window"
+    },
+    {
+      "page": 18,
+      "category": "festival",
+      "companion": "puffin",
+      "setting": "Reykjavik Winter Lights Festival, Tjörnin pond ice sculptures",
+      "scene_description": "Capybara walks through the Winter Lights Festival at Tjörnin pond, holding a small glowing lantern whose glow is suggested by simple radiating lines — NOT gray fills. All ice sculptures are OUTLINED SHAPES ONLY with pure white interiors. The pond surface is shown as simple horizontal wavy lines only, NO gray fills. Stars are small outline circles. Expression of wonder. A puffin companion holds its own tiny lantern.",
+      "pose": "walking forward, holding glowing lantern under face, surrounded by lights and ice",
+      "background": "Winter Lights Festival at Tjörnin pond — nighttime, illuminated ice sculptures glowing, light installations reflecting in partly-frozen pond surface",
+      "forbidden_backgrounds": "Northern Lights aurora in sky — only the ice festival ground-level scene. CRITICAL: Ice sculptures, water, lanterns must all be outlined shapes with pure white interiors — no gray fills anywhere"
+    },
+    {
+      "page": 19,
+      "category": "dinner",
+      "companion": "arctic_fox",
+      "setting": "Cozy restaurant with lamb soup and dark rye bread",
+      "scene_description": "Capybara sits at a restaurant table with a large bowl of kjötsúpa lamb soup steaming richly, spoon raised and ready, leaning forward with an expression of someone who is deeply cold and deeply grateful for hot soup. The dark rye bread sits thick-sliced beside the bowl. A fox companion across the table is building an ambitious tower of bread slices with the architectural concentration of a professional.",
+      "pose": "leaning forward toward soup bowl, spoon raised, cold-to-warm grateful expression",
+      "background": "Cozy Icelandic restaurant INTERIOR — wooden decor, rough stone walls, warm lighting, frosted window with snow outside. A different restaurant from page 4",
+      "forbidden_backgrounds": "Hallgrímskirkja, Northern Lights — only the restaurant interior"
+    },
+    {
+      "page": 20,
+      "category": "evening_walk",
+      "companion": "puffin",
+      "setting": "Aurora borealis northern lights display above Reykjavik",
+      "scene_description": "Capybara stands alone on a dark hillside outside the city, head tilted all the way back, mouth open, watching the Northern Lights ripple in great green and violet curtains across the night sky above. Both arms hang at the sides in complete speechless awe. The capybara is a small warm silhouette against the vast cold sky ablaze with aurora. A puffin companion stands beside doing exactly the same — tiny, still, silent, heads both aimed upward at the impossible light show.",
+      "pose": "standing still, head all the way back, mouth open, arms at sides, pure awe",
+      "background": "Dark hillside OUTSIDE Reykjavik at night — the Northern Lights aurora borealis filling the ENTIRE sky in dramatic green and violet curtains. This is the ONE designated aurora page",
+      "forbidden_backgrounds": "Hallgrímskirkja, any buildings — only the dark hillside and aurora sky"
+    },
+    {
+      "page": 21,
+      "category": "museum",
+      "companion": "arctic_fox",
+      "setting": "National Museum of Iceland, Viking Age exhibition",
+      "scene_description": "Capybara stands before a full-scale Viking longship reconstruction that fills the museum hall, tiny at the bow looking up at the carved dragon prow looming above. One paw gripping the museum railing in wonder, the other pressed to the chest. The longship is simplified into clean dramatic shapes but clearly enormous. An Arctic fox companion examines a nearby exhibit of Viking runes and silver jewelry on a low pedestal, taking careful notes.",
+      "pose": "tiny at longship bow, one paw on rail, one on chest, looking up at dragon prow",
+      "background": "National Museum of Iceland INTERIOR — the full-scale Viking longship reconstruction filling the museum hall, high ceilings, display cases",
+      "forbidden_backgrounds": "Northern Lights, outdoor Iceland — only the museum interior with longship"
+    },
+    {
+      "page": 22,
+      "category": "outdoor",
+      "companion": "puffin",
+      "setting": "Gullfoss waterfall on the Golden Circle",
+      "scene_description": "Capybara stands on the viewing platform at Gullfoss waterfall, gripping the rail with both paws as an enormous mist cloud from the two-tiered falls drenches everything — the pompom hat is completely soaked and flattened, the lopapeysa is darkened with water, and the capybara is laughing with wide-open delight at the sheer scale and power of the water crashing into the canyon below. A puffin companion beside them has puffed up their feathers and is simply waterproofing.",
+      "pose": "gripping rail, soaked pompom hat, drenched, laughing in delight at waterfall mist",
+      "background": "Gullfoss waterfall viewing platform — the MASSIVE two-tiered waterfall crashing into a canyon, mist cloud rising, safety railing in foreground",
+      "forbidden_backgrounds": "Northern Lights, Hallgrímskirkja, Blue Lagoon — only the Gullfoss waterfall and canyon"
+    },
+    {
+      "page": 23,
+      "category": "waterside",
+      "companion": "arctic_fox",
+      "setting": "Blue Lagoon geothermal area viewing platform",
+      "scene_description": "Capybara sits on a wooden viewing platform beside the Blue Lagoon geothermal pool. The pale blue water is shown as simple horizontal wavy outline lines on white — NOT filled with any gray or blue. Lava rocks are OUTLINED ROUNDED SHAPES with pure white interiors — NOT dark gray fills. Steam rising from the water is shown as simple curved wispy lines only. An Arctic fox companion sits beside contentedly.",
+      "pose": "sitting on platform, feet dangling over blue geothermal water, peaceful",
+      "background": "Blue Lagoon geothermal area — the distinctive pale BLUE-WHITE mineral water with steam rising, black lava rocks surrounding the pool, overcast sky",
+      "forbidden_backgrounds": "Hallgrímskirkja, Northern Lights — only the Blue Lagoon platform. CRITICAL: Lava rocks are WHITE-INTERIOR outlines, water is simple line curves, steam is wispy lines — nothing is gray-filled"
+    },
+    {
+      "page": 24,
+      "category": "sport",
+      "companion": "puffin",
+      "setting": "Icelandic horse riding on the countryside",
+      "scene_description": "Capybara sits atop a small fluffy Icelandic horse that is doing the characteristic tölt gait — a smooth four-beat pace — the capybara bouncing very gently with an expression of surprised delight at how smooth and soft the riding feels, both paws gripping the saddle with joyful uncertainty, pompom hat bouncing. The stocky little Icelandic horse looks utterly reliable. A puffin companion watches from a fence post with professional equestrian judgment.",
+      "pose": "sitting on Icelandic horse in tölt, bouncing gently, surprised delight, paws on saddle",
+      "background": "Open Icelandic countryside — mossy lava fields, wide open sky, distant volcanic mountains. A very different landscape from all previous Iceland scenes",
+      "forbidden_backgrounds": "Northern Lights, Hallgrímskirkja, Blue Lagoon — only the open lava field countryside"
+    },
+    {
+      "page": 25,
+      "category": "art_market",
+      "companion": "arctic_fox",
+      "setting": "Reykjavik handcraft market, Icelandic wool and design goods",
+      "scene_description": "Capybara holds up a large hand-knitted lopapeysa sweater and a pair of knitted mittens in each raised paw simultaneously — both arms wide, deciding which to buy, face perfectly split between two equally irresistible options. The stall behind is loaded with colourful wool goods, wooden crafts, and hand-painted items. An Arctic fox stallholder watches patiently with the composure of someone who has seen this indecision many times before.",
+      "pose": "arms wide, sweater in one paw, mittens in other, perfectly split expression of indecision",
+      "background": "Reykjavik handcraft market OUTDOOR stalls — woolens, ceramics, wooden crafts on display tables, buildings behind",
+      "forbidden_backgrounds": "Northern Lights, Blue Lagoon — only the outdoor market stalls and buildings"
+    },
+    {
+      "page": 26,
+      "category": "celebration",
+      "companion": "puffin, rabbit, duck",
+      "setting": "Þjóðhátíð Viking midsummer festival, bonfire and dancing",
+      "scene_description": "Capybara dances in a circle at the traditional Þjóðhátíð midsummer festival, hands joined in the circle with a puffin on the left and a rabbit on the right, all bouncing together in the traditional round dance around a simplified bonfire in the center. The capybara's face shows pure celebratory joy, scarf flying behind. A duck in Viking-style headwear beats a simple drum at the edge of the circle. Festival lanterns and night sky fill the background.",
+      "pose": "dancing in circle, hands joined with puffin and rabbit, scarf flying, joyful",
+      "background": "Þjóðhátíð Viking midsummer festival grounds at night — bonfire in center, festival lanterns, the midnight sun glow on the horizon (bright even at night in summer)",
+      "forbidden_backgrounds": "Northern Lights aurora — this is MIDNIGHT SUN glow, not Northern Lights. Different phenomenon, different look"
+    },
+    {
+      "page": 27,
+      "category": "new_friends",
+      "companion": "puffin, arctic_fox, horse (farewell)",
+      "setting": "Tjörnin pond edge, farewell gathering",
+      "scene_description": "Capybara stands at the farewell gathering at Tjörnin pond, holding out a small hand-knitted mitten gift toward the puffin companion who has been the guide all week, while the Arctic fox holds a small glass jar of Icelandic honey as a parting gift, and the Icelandic horse companion presses its soft nose gently to the capybara's cheek as a goodbye nuzzle. All have the bittersweet sparkle of wonderful friendships at a journey's end. Hallgrímskirkja is visible on the hill behind.",
+      "pose": "center of farewell circle, mitten offered to puffin, horse nuzzling cheek",
+      "background": "Tjörnin pond edge farewell — same pond as page 9 but different angle: Hallgrímskirkja visible on the hill in the background, warm farewell mood",
+      "forbidden_backgrounds": "Northern Lights — only Tjörnin pond with Hallgrímskirkja on hill behind"
+    },
+    {
+      "page": 28,
+      "category": "packing",
+      "companion": "puffin",
+      "setting": "Guesthouse room, departure morning, overstuffed suitcase",
+      "scene_description": "Capybara sits on top of a bulging suitcase trying to force it shut — a giant lopapeysa sweater, two pairs of knitted mittens, a small puffin plush souvenir, a bottle of Icelandic hot sauce, and a lava rock are all resisting the zipper with collective determination. Arms spread for leverage, expression showing cheerful chaos. A puffin companion sits on the floor beside observing with wings folded, clearly thinking about whether the puffin plush inside the suitcase is a commentary.",
+      "pose": "sitting on suitcase, arms spread, graceful chaos, facing forward",
+      "background": "Guesthouse room INTERIOR at departure morning — same cozy room as page 3 but morning light now, grey dawn sky through window",
+      "forbidden_backgrounds": "Northern Lights, Hallgrímskirkja — only the guesthouse room interior"
+    },
+    {
+      "page": 29,
+      "category": "farewell",
+      "companion": "puffin",
+      "setting": "Keflavik Airport departure gate, window view of lava fields",
+      "scene_description": "Capybara stands at the Keflavik Airport departure gate window with one paw pressed flat against the glass, looking out over the ancient black lava fields stretching to the horizon — Iceland's raw, otherworldly landscape visible one last time before boarding. Looking back over the left shoulder with sparkly teary eyes, scarf wrapped tightly, a sad smile on the face. The puffin companion from page 1 has somehow made it back to the airport and stands on the tarmac outside the window, wing raised in final salute.",
+      "pose": "paw on departure gate glass, looking left over shoulder, tearful smile, scarf tight",
+      "background": "Keflavik Airport departure gate window — black lava fields stretching to the horizon through the gate glass, grey Icelandic sky",
+      "forbidden_backgrounds": "Northern Lights, Hallgrímskirkja, Blue Lagoon — only the airport gate glass and lava fields outside"
+    },
+    {
+      "page": 30,
+      "category": "memories",
+      "companion": "arctic_fox",
+      "setting": "Overhead spread of Iceland souvenirs and memories",
+      "scene_description": "Capybara sits cross-legged at the center of a beautifully arranged overhead spread of Iceland memories radiating outward: Polaroid photos of Hallgrímskirkja, the aurora, Gullfoss, and a puffin encounter; a small hand-knitted lopapeysa mitten; a black lava rock; a puffin plush; an Icelandic hot chocolate cup; a Viking rune pebble; and a Þingvellir entry ticket. The capybara holds up a Polaroid of the Northern Lights toward the viewer with both paws, eyes bright with joy. An Arctic fox companion holds up the puffin plush and the rune pebble with delight.",
+      "pose": "cross-legged center, holding Northern Lights Polaroid up to viewer, overhead composition",
+      "background": "Floor or table surface with overhead flat-lay arrangement of Iceland mementos — no architectural background, only the items spread around the capybara",
+      "forbidden_backgrounds": "Any Iceland architecture or landscape in background — only the overhead mementos spread"
+    }
+  ]
+}

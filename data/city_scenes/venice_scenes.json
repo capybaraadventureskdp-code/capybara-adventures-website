@@ -1,0 +1,230 @@
+{
+  "city": "Venice",
+  "slug": "venice",
+  "note": "Each page has a unique background landmark. Rialto Bridge appears ONLY on page 6. The forbidden_backgrounds field explicitly blocks the most likely AI default backgrounds per scene.",
+  "scenes": [
+    {
+      "page": 1, "category": "arrival", "companion": "seagull",
+      "setting": "Marco Polo Airport boat taxi dock, first ride into Venice",
+      "scene_description": "Capybara stands in the bow of a water taxi pulling away from Marco Polo Airport, rolling suitcase wedged beside them, leaning forward into the warm lagoon breeze with wide shining eyes as the first distant silhouette of Venice's church domes and bell towers appears on the horizon across the water. Body faces right, one paw gripping the rail, the other raised shielding eyes from the glare. A seagull companion perches on the suitcase handle wearing a tiny sailor's cap, also staring toward the approaching city with great authority.",
+      "pose": "leaning forward into bow of boat, body right, one paw on rail",
+      "background": "Open flat Venetian lagoon with the very distant Venice skyline silhouette on the horizon — NO bridges, NO canals, just open water and sky",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal close-up, gondolas, Venice streets — only the open lagoon and airport dock"
+    },
+    {
+      "page": 2, "category": "first_glimpse", "companion": "cat",
+      "setting": "Grand Canal from a vaporetto water bus",
+      "scene_description": "Capybara stands at the rear railing of a vaporetto water bus as it turns the great bend of the Grand Canal and the magnificent palazzos lining both banks come into full view — baroque facades, arched windows, weathered terracotta and cream stone reflected in the shimmering green water below. Both arms flung wide in overwhelmed wonder, hat blown sideways by the canal wind. A small striped cat companion grips the railing beside, also wide-eyed, ears flattened back from the speed.",
+      "pose": "at vaporetto railing, arms flung wide, hat blown sideways",
+      "background": "Grand Canal with tall Venetian palazzo facades lining BOTH banks — show the water and building facades only, NO bridges in this view",
+      "forbidden_backgrounds": "Rialto Bridge, any bridge — only the straight canal corridor between two rows of palazzos"
+    },
+    {
+      "page": 4, "category": "breakfast", "companion": "bird",
+      "setting": "Tiny canalside bar at early morning",
+      "scene_description": "Capybara stands at a marble counter of a tiny Venetian bar barely wider than a closet, clutching a shot-glass espresso cup in both paws with both paws, staring at it with one raised eyebrow — the cup is bewilderingly small compared to the capybara's paws. A flaky cornetto pastry sits on a small plate beside. Body faces the viewer in a forward comic stance. A tiny sparrow companion is perched directly on the cornetto, having immediately claimed the first bite, completely unbothered.",
+      "pose": "standing at marble bar counter, holding tiny espresso cup in both paws, comic stare at camera",
+      "background": "Intimate narrow bacaro bar interior — marble counter, low ceiling, small window showing a sliver of canal outside, wine bottles on shelf behind counter",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal, open piazza — only the cozy bar interior"
+    },
+    {
+      "page": 6, "category": "photo", "companion": "panda",
+      "setting": "Rialto Bridge, center of the bridge walkway — THE Rialto page",
+      "scene_description": "Capybara stands at the highest point of the Rialto Bridge's central walkway, camera held up to one squinting eye, photographing the sweeping curve of the Grand Canal in both directions below — gondolas and vaporetti creating gentle wakes on the green water. Knees bent in a photographer's crouch, tongue just visible in concentration. A panda companion in a tiny gondolier hat stands beside with both thumbs up, posing as the helpful photo assistant.",
+      "pose": "photographer's crouch at bridge apex, one eye to camera, tongue out",
+      "background": "Rialto Bridge stone arch walkway with the Grand Canal sweeping below in both directions — THIS is the Rialto Bridge scene and the ONLY page in the book showing this bridge"
+    },
+    {
+      "page": 7, "category": "market", "companion": "rabbit",
+      "setting": "Rialto Market produce and fish stalls — the MARKET, not the bridge",
+      "scene_description": "Capybara crouches down low at the Rialto Market fish stalls, nose almost touching the display as they examine a large octopus arranged dramatically on crushed ice with wide fascinated eyes, one paw on chin, completely transfixed. Facing left, body in a deep crouch. A rabbit companion in a market apron stands behind the counter trying very hard not to laugh at the capybara's octopus fixation. Striped market awnings and crates of colorful vegetables fill the background.",
+      "pose": "deep crouch, nose nearly touching fish display, body left, paw on chin",
+      "background": "Rialto Market fish and produce stalls — colorful market awnings, crates of vegetables, market counter with crushed ice displays. NO Rialto Bridge arch in view — only the market stalls",
+      "forbidden_backgrounds": "Rialto Bridge arch, Grand Canal, gondolas — this scene is inside the market, not on the bridge"
+    },
+    {
+      "page": 8, "category": "street_food", "companion": "bird",
+      "setting": "Bacaro wine bar cicchetti counter in Dorsoduro",
+      "scene_description": "Capybara stands at a tiny bacaro wine bar counter with a small wooden cicchetti board, attempting to balance a tower of tiny open-faced cicchetti bites stacked four high on one paw — baccalà, artichoke, sardine, each with a toothpick flag — wobbling visibly, eyes crossed trying to keep them level. Body faces forward, other arm out for balance. A small bird companion sits on the counter picking at a fallen crumb with complete contentment.",
+      "pose": "facing forward, balancing tower of cicchetti on one paw, other arm out for balance",
+      "background": "Cozy bacaro wine bar standing counter interior — wine barrels on shelves behind, stone walls, hanging copper pots, small canal window showing dark water",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal, Piazza San Marco — only the intimate bacaro interior"
+    },
+    {
+      "page": 9, "category": "park", "companion": "rabbit",
+      "setting": "Giardini della Biennale park, waterfront garden",
+      "scene_description": "Capybara sits cross-legged under a spreading tree in the Giardini della Biennale garden, back against the trunk, sketchbook on knees and pencil drawing the sailboats and gondolas drifting past on the lagoon visible through a gap in the garden fence. Eyes relaxed and happy, the afternoon utterly peaceful. A rabbit companion sits beside sharing the tree's shade, holding a small paper fan, also gazing at the water.",
+      "pose": "cross-legged against tree trunk, sketching, side facing right",
+      "background": "Biennale garden with lush trees and grass in foreground — in the background through a garden fence gap, the open LAGOON with small distant boats, NOT the Rialto Bridge or Grand Canal",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal, Venice city buildings close-up — only the garden park and distant lagoon through fence"
+    },
+    {
+      "page": 10, "category": "local_animal", "companion": "none — pigeon IS companion",
+      "setting": "Piazza San Marco — the open square, NOT the canal",
+      "scene_description": "Capybara stands frozen in Piazza San Marco with both arms held carefully out to the sides — a pigeon has landed on each arm, one more is sitting on the hat brim, and a fourth is strutting purposefully across the capybara's shoes. Expression of absolute delighted paralysis: enormous happy eyes, unable to move for fear of disturbing the pigeons. A fifth pigeon stands in front staring up with complete command of the situation. The empty piazza stretches out behind them in all directions.",
+      "pose": "arms out, completely still, pigeons on arms and hat, paralyzed delight",
+      "background": "Open Piazza San Marco stone square stretching out wide — St. Mark's Basilica facade in the far background, the open paved square in middle ground, NO canals, NO Rialto Bridge",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal, any canal — only the open piazza stones and St. Mark's Basilica in distance"
+    },
+    {
+      "page": 11, "category": "transport", "companion": "duck",
+      "setting": "Narrow side canal in Cannaregio — NOT the Grand Canal",
+      "scene_description": "Capybara sits upright in a gondola on a narrow side canal, both paws on the gondola sides, leaning slightly to peer over the edge at the mossy canal walls and green water passing just inches below. The straw boater hat is tied firmly under the chin with the ribbon. Expression of wonder at being so close to the water. A duck companion sits in the bow facing backward toward the capybara, perfectly at home on the water, wearing a tiny gondolier stripe.",
+      "pose": "sitting upright in gondola, leaning to peer over edge, both paws on sides",
+      "background": "Narrow Cannaregio side canal — mossy stone walls very close on both sides, laundry lines above, arched footbridge in far distance. This is a quiet residential canal, NOT the Grand Canal",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal, Piazza San Marco — only the narrow residential side canal with close mossy walls"
+    },
+    {
+      "page": 12, "category": "landmark_2", "companion": "fox",
+      "setting": "San Giorgio Maggiore island view from Riva degli Schiavoni waterfront",
+      "scene_description": "Capybara sits on the wide stone embankment of the Riva degli Schiavoni facing the lagoon, sketchbook propped on their knees, drawing the beautiful San Giorgio Maggiore island church across the water — its white Palladian facade and bell tower reflected in the lagoon. Tongue slightly out in artistic concentration, facing slightly right. A fox companion in a beret sits on the step above, peering at the sketchbook with one paw pointing at an improvement suggestion.",
+      "pose": "sitting on embankment, side right, sketchbook on knees, tongue out drawing",
+      "background": "Riva degli Schiavoni waterfront embankment with the lagoon in foreground — across the water, San Giorgio Maggiore island with its white church and bell tower. NOT the Rialto Bridge — a completely different Venice landmark",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal interior, any canal street — only the open lagoon view toward San Giorgio Maggiore island"
+    },
+    {
+      "page": 13, "category": "shopping", "companion": "cat",
+      "setting": "Venetian glass shop on Murano island — completely different island from Venice proper",
+      "scene_description": "Capybara stands in a Murano glassblowing shop holding up an enormous glass fish sculpture — nearly as big as the capybara's torso — with both paws, tilting it to catch the light, expression oscillating between 'this is magnificent' and 'how will this fit in my suitcase.' Facing the viewer, elbows up, the glass fish sparkling. A cat companion beside them is already holding up a smaller glass cat figurine with a very pleased expression, clearly the wiser shopper.",
+      "pose": "facing viewer, holding giant glass fish with both paws, elbows up",
+      "background": "Murano island glass shop interior — shelves of colorful glowing glass sculptures in every shape and color, glass furnace glow visible through a back doorway. This is Murano island, NOT Venice main island",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal, Venice canals — only the Murano glass shop interior"
+    },
+    {
+      "page": 14, "category": "craft", "companion": "bird",
+      "setting": "Venetian mask-making workshop in Dorsoduro neighborhood",
+      "scene_description": "Capybara sits at a workbench in a Venetian mask-making laboratorio, both paws carefully applying decorative details to a half-finished Commedia dell'Arte mask with a tiny paintbrush, brow furrowed in artistic concentration, tip of tongue just visible. The capybara wears a paint-spattered craft apron over the gondolier shirt. A small bird companion perches on the mask stand, head tilted, clearly serving as artistic critic. Unfinished masks and feathers are arranged on the workbench.",
+      "pose": "hunched over workbench, tiny paintbrush in paw, tongue out, side facing left",
+      "background": "Mask workshop interior — workbench with unfinished masks and feathers, shelves of completed painted masks on the walls, workshop tools hanging, stone wall interior. NO canals or bridges visible",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal, outdoor Venice — only the workshop interior"
+    },
+    {
+      "page": 15, "category": "temple", "companion": "deer",
+      "setting": "Santa Maria della Salute church entrance steps",
+      "scene_description": "Capybara walks slowly up the wide steps of the baroque Santa Maria della Salute church, one paw trailing along the stone railing, head tilted back to look at the great circular dome rising above. The capybara is deliberately small against the grand baroque structure. A deer companion walks quietly beside, also gazing upward with a serene expression, carrying a simple tourist guidebook. The church dome fills the upper portion of the frame.",
+      "pose": "walking up steps, paw on railing, head tilted back, small against dome",
+      "background": "Santa Maria della Salute church exterior — the dramatic baroque dome and scrollwork volutes above, wide stone steps below. NOT the Rialto Bridge — this is a completely different Venice landmark on the opposite end of the Grand Canal",
+      "forbidden_backgrounds": "Rialto Bridge, any bridge, Grand Canal interior — only the Salute church facade and dome"
+    },
+    {
+      "page": 16, "category": "viewpoint", "companion": "cat",
+      "setting": "Campanile bell tower observation level — rooftop view of all Venice",
+      "scene_description": "Capybara leans on the observation rail of the Campanile, looking out over the rooftops and red-tiled chimneys of Venice stretching in every direction — the Grand Canal a silvery ribbon snaking through the city, the lagoon glittering beyond. Expression of awed contentment, profile facing right. A cat companion sits on the rail itself (improbably balanced), tail curled, also gazing out with aristocratic calm.",
+      "pose": "leaning on Campanile observation rail, profile right, looking over rooftops",
+      "background": "Aerial view from Campanile bell tower — Venice rooftops, red-tiled chimneys, and church domes spreading out below in every direction. The Grand Canal visible as a distant ribbon from high above. This is a BIRD'S-EYE view, not a street-level canal view",
+      "forbidden_backgrounds": "Rialto Bridge close-up, street-level canal view, gondolas — only the aerial rooftop panorama from high above"
+    },
+    {
+      "page": 17, "category": "snack", "companion": "rabbit",
+      "setting": "Gelato shop along a quiet residential calle alley",
+      "scene_description": "Capybara stands beside a quiet canal holding a triple-scoop gelato cone that is alarmingly tall — three generous scoops in different flavors teetering dangerously above the cone. The capybara eyes the top scoop with focused anxiety, one paw hovering underneath just in case. Body faces forward. A rabbit companion beside them has a much more sensible single-scoop cup and is watching the engineering situation with barely concealed amusement.",
+      "pose": "facing forward, holding tall triple-scoop gelato cone, one paw hovering underneath",
+      "background": "Quiet narrow Venetian calle alley with flower boxes on window ledges, laundry on lines above, small stone-paved path. A gelateria doorway beside them. NO canal visible, NO bridge — only the quiet residential alley",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal, open piazza — only the narrow residential calle alley"
+    },
+    {
+      "page": 18, "category": "festival", "companion": "fox",
+      "setting": "Carnevale di Venezia festival in Piazza San Marco",
+      "scene_description": "Capybara dances through the edges of the Carnevale festival, wearing a simple domino eye mask pushed up on their forehead, one arm raised holding a paper confetti streamer that has unspooled behind them in a long ribbon, stepping energetically to the right with a huge grin. A fox companion in an elaborate full Carnevale mask dances alongside in the full theatrical costume spirit of the festival. Confetti dots fill the air.",
+      "pose": "dancing right, one arm raised with confetti streamer, domino mask on forehead",
+      "background": "Piazza San Marco open square filled with Carnevale revelers in elaborate costumes — confetti falling everywhere, the St. Mark's Basilica arches in the far background. Open square setting, NOT a canal scene",
+      "forbidden_backgrounds": "Rialto Bridge, canals, gondolas — only the open Piazza San Marco with Carnevale crowds and confetti"
+    },
+    {
+      "page": 19, "category": "dinner", "companion": "duck",
+      "setting": "Candlelit trattoria in Dorsoduro neighborhood interior",
+      "scene_description": "Capybara sits at a candlelit trattoria table with a steaming bowl of seafood risotto, both paws gripping a large spoon ready to dive in, leaning forward so eagerly the straw hat tips forward over one eye. The risotto bowl is enormous and fragrant. A duck companion sits across the small table — already halfway through their own bowl — eating with great efficiency.",
+      "pose": "leaning forward toward risotto bowl, both paws on spoon, hat tipping forward",
+      "background": "Warm candlelit trattoria interior — rough stone walls, wooden tables with checkered cloths, candle in bottle, a small frosted window showing a dark canal shadow outside. Restaurant INTERIOR only",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal, outdoor Venice — only the cozy trattoria interior"
+    },
+    {
+      "page": 20, "category": "evening_walk", "companion": "rabbit",
+      "setting": "Accademia bridge at evening — looking north AND south along the Grand Canal",
+      "scene_description": "Capybara strolls along the Accademia wooden bridge at dusk, pausing at the highest point to look at the Grand Canal stretching away in both directions under the warm evening light — palazzos lit from within casting golden reflections on the dark water. Expression dreamy and peaceful, profile facing right. A rabbit companion strolls beside at an equally unhurried pace.",
+      "pose": "strolling profile right across wooden bridge, pausing at apex to look both ways",
+      "background": "Accademia wooden bridge apex — looking down the Grand Canal in both directions at dusk, golden window reflections on dark water, palazzos on both sides. This is the ACCADEMIA BRIDGE, a different landmark from the Rialto Bridge",
+      "forbidden_backgrounds": "Rialto Bridge — only the Accademia Bridge with the Grand Canal views north and south"
+    },
+    {
+      "page": 21, "category": "museum", "companion": "turtle",
+      "setting": "Doge's Palace Council Chamber interior — no canal view",
+      "scene_description": "Capybara stands in the vast Council Chamber of the Doge's Palace, head craned back staring up at the enormous gilded ceiling covered in simplified painted panels — massive ornate frames and painted figures — the capybara deliberately tiny against the room's overwhelming scale. One paw points straight up, jaw slightly open in awe. A turtle companion examines a floor-level information placard with reading glasses.",
+      "pose": "standing tiny, head all the way back, one paw pointing at gilded ceiling",
+      "background": "Doge's Palace Council Chamber INTERIOR — gilded ornate ceiling filling the upper frame, grand hall stretching in all directions, NO canal or exterior views. This is an indoor palace room",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal, outdoor Venice — only the palace interior gilded ceiling room"
+    },
+    {
+      "page": 22, "category": "outdoor", "companion": "duck",
+      "setting": "Traditional batela boat on the open NORTHERN LAGOON — completely different from canal rowing",
+      "scene_description": "Capybara stands at the stern of a traditional flat-bottomed batela rowing boat, attempting the standing Venetian voga longa rowing style — both oars braced against the single stern oarlock — wobbling dramatically but laughing with joy as the boat drifts through the open northern lagoon. The capybara faces right in dynamic motion. A duck companion sits in the bow watching the rowing form with genuine professional concern.",
+      "pose": "standing at boat stern, both oars braced, wobbling but laughing, facing right",
+      "background": "Open northern Venetian lagoon — flat calm water stretching to the horizon, distant low islands barely visible, open sky above. NO Rialto Bridge, NO Grand Canal, NO Venice city buildings close up — only the flat open lagoon",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal, Venice canal streets, city buildings — only the flat open northern lagoon with horizon"
+    },
+    {
+      "page": 23, "category": "waterside", "companion": "cat",
+      "setting": "Ponte dei Sospiri (Bridge of Sighs) area — a completely different bridge from Rialto",
+      "scene_description": "Capybara sits at the very edge of a small fondamenta beside the famous covered Bridge of Sighs — the enclosed white limestone bridge connecting the Doge's Palace to the prison — feet dangling just above the narrow canal below, watching gondolas glide silently underneath. Expression completely peaceful. A cat companion sits beside with legs crossed, also watching the gondola pass.",
+      "pose": "sitting on fondamenta edge, feet dangling over narrow canal, watching gondola",
+      "background": "The Ponte dei Sospiri (Bridge of Sighs) — the famous white enclosed covered bridge in the background over the narrow Rio di Palazzo canal. This is NOT the Rialto Bridge — it is a completely different, much smaller ornate covered bridge",
+      "forbidden_backgrounds": "Rialto Bridge — only the Ponte dei Sospiri covered bridge in the background"
+    },
+    {
+      "page": 24, "category": "sport", "companion": "rabbit",
+      "setting": "Campo Santa Margherita open square — bocce game, no canal in sight",
+      "scene_description": "Capybara stands in the Campo Santa Margherita with both arms raised in mid-cheer, having just rolled a bocce ball that landed perfectly — both feet planted wide, body angled dramatically left, expression of absolute triumph. A rabbit companion across the campo crouches down examining exactly where the balls landed with intense competitive scrutiny.",
+      "pose": "mid-cheer, both arms raised, body angled left, triumphant expression",
+      "background": "Campo Santa Margherita open square — wide stone-paved campo with surrounding apartment building facades and a church in the background. NO canals visible, NO bridges — an open piazza square",
+      "forbidden_backgrounds": "Rialto Bridge, any canal or bridge, Grand Canal — only the open campo square"
+    },
+    {
+      "page": 25, "category": "art_market", "companion": "bird",
+      "setting": "Artisan market along the Zattere promenade — waterfront of Giudecca canal",
+      "scene_description": "Capybara holds up an elaborately decorated Venetian Carnival mask to their own face — the mask is ornate with gold trim and feathers — and is clearly considering wearing it for the rest of the trip, expression of pure mischievous delight visible above and below the mask's eye holes. Facing forward in comedy framing. A small bird companion perches on a nearby mask display stand wearing a tiny matching feathered eye mask.",
+      "pose": "facing viewer, holding ornate Carnival mask up to face, delighted eyes visible",
+      "background": "Outdoor artisan market along the Zattere promenade — market stalls with masks and crafts, the wide Giudecca canal visible behind with the Giudecca island across the water. Completely different setting from any previous canal scene",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal — only the Zattere promenade with Giudecca canal behind"
+    },
+    {
+      "page": 26, "category": "celebration", "companion": "panda, fox, rabbit",
+      "setting": "Vogalonga rowing festival finish at the Grand Canal near Ca' Foscari",
+      "scene_description": "Capybara sits in a decorated boat at the Vogalonga rowing festival finish line, both arms raised in exhausted triumph, ribbons and flower garlands draped over the gondolier shirt, a medal around the neck. A panda and fox companion row on either side still pumping the oars with wild energy, and a rabbit in the bow waves a flag as they cross the finish.",
+      "pose": "sitting in boat, arms raised in triumph, medals and garlands, finish line",
+      "background": "Grand Canal near the Ca' Foscari palace during the Vogalonga rowing festival — the canal crowded with decorated boats crossing the finish line, spectators on both banks. The festival context makes this canal scene distinct from all others",
+      "forbidden_backgrounds": "Rialto Bridge close-up specifically — the Grand Canal here is the festival finish area, not the Rialto section"
+    },
+    {
+      "page": 27, "category": "new_friends", "companion": "seagull, cat, duck (farewell circle)",
+      "setting": "Piazzetta dei Leoncini — tiny courtyard beside St. Mark's Basilica",
+      "scene_description": "Capybara stands in a warm farewell circle in the small Piazzetta dei Leoncini courtyard, holding out a tiny glass Venetian souvenir heart toward the seagull sailor companion from the first day, while a cat companion holds a small gelato cup as a parting gift and a duck companion clasps the capybara's other paw. All four have the bittersweet sparkly-eyed expression of wonderful friends parting.",
+      "pose": "center of farewell circle, gifts exchanging in both directions",
+      "background": "Piazzetta dei Leoncini small courtyard next to St. Mark's Basilica — rose-colored brick walls, a small stone well, the basilica's north facade visible to one side. A quiet courtyard setting distinct from all other scenes",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal, open lagoon — only the quiet small courtyard"
+    },
+    {
+      "page": 28, "category": "packing", "companion": "cat",
+      "setting": "Canalside pensione room, departure morning",
+      "scene_description": "Capybara sits on top of an impossibly overstuffed suitcase, feet pressing down on the lid that refuses to shut — a Venetian glass fish, a decorative mask, a rolled canal map, and a string of Murano glass beads all conspire to keep the zipper from closing. Expression of determined cheerfulness. A cat companion sits on the tiled floor below with the expression of someone who has never over-packed in their life.",
+      "pose": "sitting on suitcase lid, feet pressing, arms spread for balance, facing forward",
+      "background": "Pensione room interior — open wooden shutters showing a sliver of morning canal light outside, tiled floor, white plastered walls. INTERIOR scene, only a glimpse of canal through window",
+      "forbidden_backgrounds": "Rialto Bridge, Grand Canal close-up — only the room interior with tiny canal window glimpse"
+    },
+    {
+      "page": 29, "category": "farewell", "companion": "seagull",
+      "setting": "Water taxi to Marco Polo Airport, leaving Venice behind",
+      "scene_description": "Capybara stands at the rear of the water taxi as it pulls away from the Venice dock, looking back with one paw pressed to heart and the other waving, eyes glistening with happy tears as the domes and campaniles and canal facades of Venice slowly grow smaller on the horizon. The straw boater hat is pressed to the chest in farewell salute. The seagull sailor companion circles overhead one last time, dipping a wing in goodbye.",
+      "pose": "standing at boat stern, one paw on heart, other waving, looking back",
+      "background": "Open lagoon behind the departing water taxi — Venice shrinking in the distance as a cluster of domes and tower silhouettes on the flat horizon. The same open lagoon as page 1 but now reversed — leaving instead of arriving",
+      "forbidden_backgrounds": "Rialto Bridge close-up, Grand Canal interior — only the open lagoon with the distant Venice skyline shrinking away"
+    },
+    {
+      "page": 30, "category": "memories", "companion": "rabbit",
+      "setting": "Overhead floor spread of Venice souvenirs — no exterior setting",
+      "scene_description": "Capybara sits cross-legged in the center of a beautiful overhead spread of Venice memories radiating outward: Polaroid photos of the Grand Canal, Rialto Bridge, and gondola ride; a Venetian glass fish; a gondolier hat ribbon; a cicchetti toothpick; a gelato wrapper; a Piazza San Marco pigeon feather; and a small canal map with pencil marks. The capybara holds up a Polaroid of the Rialto Bridge toward the viewer with both paws, smiling with complete joy.",
+      "pose": "cross-legged center, holding Rialto Polaroid up to viewer, overhead composition",
+      "background": "Overhead flat-lay arrangement of Venice mementos — souvenirs and photos radiating outward on a simple light-colored floor or table surface. No background architecture — only the items themselves arranged around the seated capybara",
+      "forbidden_backgrounds": "Any actual Venice architecture visible in background — only the overhead item arrangement"
+    }
+  ]
+}
